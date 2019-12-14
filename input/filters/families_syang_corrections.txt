@@ -1,0 +1,12 @@
+Acanthaceae	Labiatae
+Bignoniaceae	Labiatae
+Calophyllaceae	Guttiferae
+Costaceae	Cannaceae
+Heliconiaceae	Musaceae
+Linderniaceae	Labiatae
+Marantaceae	Cannaceae
+Phyllanthaceae	Euphorbiaceae
+Plantaginaceae	Labiatae
+Schlegeliaceae	Labiatae
+Verbenaceae	Labiatae
+Zingiberaceae	Cannaceae

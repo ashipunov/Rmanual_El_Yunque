@@ -1,0 +1,8 @@
+Blechnaceae	Aspleniaceae
+Davalliaceae	Polypodiaceae
+Dryopteridaceae	Polypodiaceae
+Hemidictyaceae	Aspleniaceae
+Lomariopsidaceae	Polypodiaceae
+Oleandraceae	Polypodiaceae
+Tectariaceae	Polypodiaceae
+Thelypteridaceae	Aspleniaceae

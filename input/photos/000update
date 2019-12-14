@@ -1,0 +1,5 @@
+#!/bin/bash
+
+find -maxdepth 1 -newer descript.ion -name '*jpg' | sed -e 's/\.\///g' | sed -e 's/^\([a-z]\)\([a-z]\+\)_\([a-z-]\+\)[0-9]\.jpg$/\0\t\u\1\2 \3/g' >> descript.ion # control manually!
+web-albumm
+rm -f index.htm

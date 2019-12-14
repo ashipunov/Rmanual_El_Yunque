@@ -1,0 +1,3272 @@
+Abelmoschus esculentus	okra
+Abelmoschus moschatus	musk okra
+Abildgaardia ovata	flatspike sedge
+Abrus precatorius	rosarypea
+Abutilon abutiloides	shrubby Indian mallow
+Abutilon hirtum	Florida Keys Indian mallow
+Abutilon hulseanum	mauve
+Abutilon indicum	monkeybush
+Abutilon permolle	coastal Indian mallow
+Acalypha alopecuroidea	foxtail copperleaf
+Acalypha berteriana	Guayama Copperleaf
+Acalypha bisetosa	streambank copperleaf
+Acalypha chamaedryfolia	bastard copperleaf
+Acalypha hispida	red-hot cat's tail
+Acalypha ostryifolia	pineland threeseed mercury
+Acalypha poiretii	Poiret's copperleaf
+Acalypha portoricensis	Puerto Rico copperleaf
+Acalypha setosa	Cuban copperleaf
+Acanthospermum hispidum	hispid starbur
+Achyranthes aspera	devil's horsewhip
+Acisanthera quadrata	dustseed
+Acmella iodiscaea	maluco
+Acmella pusilla	dwarf spotflower
+Acnistus arborescens	hollowheart
+Acrocomia media	grugru palm
+Acrostichum aureum	golden leatherfern
+Acrostichum danaeifolium	inland leatherfern
+Adansonia digitata	baobab
+Adelia ricinella	wild lime
+Adenanthera pavonina	red beadtree
+Adenostemma verbesina	tropical medicineplant
+Adiantum capillus-veneris	common maidenhair
+Adiantum concinnum	polished maidenhair
+Adiantum fragile	fragile maidenhair
+Adiantum latifolium	broadleaf maidenhair
+Adiantum macrophyllum	largeleaf maidenhair
+Adiantum melanoleucum	fragrant maidenhair
+Adiantum obliquum	oblique maidenhair
+Adiantum petiolatum	stalked maidenhair
+Adiantum pulverulentum	glossy maidenhair
+Adiantum pyramidale	pyramid maidenhair
+Adiantum tenerum	fan maidenhair
+Adiantum tetraphyllum	fourleaf maidenhair
+Adiantum villosum	woolly maidenhair
+Adiantum vivesii	Puerto Rico maidenhair
+Adiantum wilsonii	Wilson's maidenhair
+Aechmea fasciata	urnplant
+Aechmea lingulata	West Indian livingvase
+Aechmea nudicaulis	nakedstem livingvase
+Aegiphila elata	tall spiritweed
+Aegiphila martinicensis	Caribbean spiritweed
+Aeschynomene americana	shyleaf
+Aeschynomene evenia	shrubby jointvetch
+Aeschynomene gracilis	Puerto Rico jointvetch
+Aeschynomene indica	Indian jointvetch
+Aeschynomene rudis	zigzag jointvetch
+Aeschynomene sensitiva	sensitive jointvetch
+Aeschynomene villosa	hairy jointvetch
+Agalinis fasciculata	beach false foxglove
+Agathis robusta	Queensland kauri
+Agave minor	Proctor's agave
+Agave missionum	corita
+Agave sisalana	sisal hemp
+Agdestis clematidea	rockroot
+Ageratina resiniflua	resinous snakeroot
+Ageratum conyzoides	tropical whiteweed
+Aglaonema commutatum	Philippine evergreen
+Aglaonema pictum	cara de caballo
+Agrostis hyemalis	winter bentgrass
+Aiphanes minima	Guinea bactris
+Albizia adinocephala	cream albizia
+Albizia carbonaria	naked albizia
+Albizia lebbeck	woman's tongue
+Albizia procera	tall albizia
+Alcea rosea	hollyhock
+Alchornea latifolia	achiotillo
+Alchorneopsis floribunda	palo de gallina
+Alchorneopsis portoricensis	Puerto Rico palo de gallina
+Alectra fluminensis	yerba de hierro
+Aleurites moluccanus	Indian walnut
+Allamanda blanchetii	purple allamanda
+Allamanda cathartica	golden trumpet
+Allamanda schottii	bush allamanda
+Allophylus crassinervis	palo blanco
+Allophylus racemosus	palo de caja
+Allosidastrum pyramidatum	mock fanpetals
+Alocasia macrorrhizos	giant taro
+Alocasia plumbea	metallic taro
+Aloe vera	Barbados aloe
+Aloysia triphylla	lemon beebrush
+Alpinia purpurata	red ginger
+Alpinia zerumbet	shellplant
+Alsophila amintae	forest alsophila
+Alsophila brooksii	Brooks' alsophila
+Alsophila bryophila	helecho gigante de la sierra
+Alsophila portoricensis	Puerto Rico alsophila
+Alternanthera bettzichiana	calicoplant
+Alternanthera brasiliana	Brazilian joyweed
+Alternanthera caracasana	washerwoman
+Alternanthera crucis	West Indian joyweed
+Alternanthera ficoidea	sanguinaria
+Alternanthera flavescens	yellow joyweed
+Alternanthera paronychioides	smooth joyweed
+Alternanthera philoxeroides	alligatorweed
+Alternanthera pungens	khakiweed
+Alternanthera sessilis	sessile joyweed
+Alysicarpus vaginalis	white moneywort
+Amaranthus australis	southern amaranth
+Amaranthus blitum	purple amaranth
+Amaranthus caudatus	foxtail amaranth
+Amaranthus crassipes	spreading amaranth
+Amaranthus cruentus	red amaranth
+Amaranthus dubius	spleen amaranth
+Amaranthus spinosus	spiny amaranth
+Amaranthus tricolor	Joseph's-coat
+Ambrosia confertiflora	weakleaf bur ragweed
+Ambrosia hispida	coastal ragweed
+Ambrosia peruviana	Peruvian ragweed
+Ambrosia tenuifolia	slimleaf bur ragweed
+Ammannia auriculata	eared redstem
+Ammannia baccifera	monarch redstem
+Ammannia coccinea	valley redstem
+Ammannia latifolia	pink redstem
+Amphilophium paniculatum	liana de cuello
+Amphitecna latifolia	black calabash
+Amyris balsamifera	balsam torchwood
+Amyris elemifera	sea torchwood
+Anacardium occidentale	cashew
+Anadenanthera peregrina	cohoba tree
+Anagallis arvensis	scarlet pimpernel
+Ananas comosus	pineapple
+Andira inermis	cabbagebark tree
+Andropogon bicornis	barbas de indio
+Andropogon glomeratus	bushy bluestem
+Andropogon gracilis	wire bluestem
+Andropogon leucostachyus	matojillo bluestem
+Andropogon virginicus	broomsedge bluestem
+Anechites nerium	Natal plum
+Anemia adiantifolia	pineland fern
+Anemia hirsuta	hairy flowering fern
+Anemia hirta	streambank flowering fern
+Anemia portoricensis	Puerto Rico flowering fern
+Anethum graveolens	dill
+Anetium citrifolium	treetrunk fern
+Angelonia salicariifolia	willowleaf angelon
+Aniba bracteata	canelillo
+Aniseia martinicensis	whitejacket
+Annona cherimola	cherimoya
+Annona glabra	pond apple
+Annona montana	mountain soursop
+Annona muricata	soursop
+Annona reticulata	custard apple
+Annona squamosa	sugar apple
+Anoda cristata	crested anoda
+Anopteris hexagona	Moore's brake
+Anredera cordifolia	heartleaf madeiravine
+Anredera vesicaria	Texas madeiravine
+Anthephora hermaphrodita	oldfield grass
+Anthurium andraeanum	flamingo-lily
+Anthurium cordatum	Organ Mountain laceleaf
+Anthurium crenatum	scalloped laceleaf
+Anthurium dominicense	lengua de vaca
+Anthurium scandens	pearl laceleaf
+Antidaphne wrightii	Wright's catkin mistletoe
+Antigonon guatemalense	bellisima grande
+Antigonon leptopus	coral vine
+Antirhea acutata	placa chiquitu
+Antirhea coriacea	pegwood
+Antirhea lucida	palo iloron
+Antirhea obtusifolia	quina roja
+Antirhea portoricensis	Puerto Rico quina
+Antirhea sintenisii	Sintenis' quina
+Antrophyum cajenense	forked lineleaf fern
+Antrophyum intramarginale	tufted lineleaf fern
+Antrophyum lanceolatum	straight lineleaf fern
+Antrophyum lineatum	narrow lineleaf fern
+Antrophyum urbanii	Urban's lineleaf fern
+Apteria aphylla	nodding nixie
+Arachis hypogaea	peanut
+Arachis repens	creeping peanut
+Arachniodes chaerophylloides	false hollyfern
+Ardisia glauciflora	ausubon
+Ardisia luquillensis	mountain marlberry
+Ardisia obovata	Guadeloupe marlberry
+Ardisia solanacea	China-shrub
+Argemone mexicana	Mexican pricklypoppy
+Argusia gnaphalodes	sea rosemary
+Argyreia nervosa	elephant creeper
+Argythamnia candicans	sharpleaf silverbush
+Argythamnia fasciculata	broom silverbush
+Argythamnia stahlii	bluntleaf silverbush
+Aristida adscensionis	sixweeks threeawn
+Aristida chaseae	Chase's threeawn
+Aristida portoricensis	pelos del diablo
+Aristida refracta	islandthicket threeawn
+Aristida spiciformis	bottlebrush threeawn
+Aristida suringarii	St. Eustatius threeawn
+Aristida swartziana	Swartz's threeawn
+Aristolochia bilabiata	West Indian dutchman's pipe
+Aristolochia elegans	elegant dutchman's pipe
+Aristolochia ringens	gaping dutchman's pipe
+Aristolochia trilobata	bejuco de santiago
+Arrabidaea chica	cricketvine
+Arracacia xanthorrhiza	arracacha
+Arthraxon castratus	castrate carpetgrass
+Arthrostemma fragile	fragile pinkfringe
+Arthrostylidium farctum	old man's beard
+Arthrostylidium multispicatum	woodland climbing bamboo
+Arthrostylidium sarmentosum	forest climbing bamboo
+Artocarpus altilis	breadfruit
+Artocarpus heterophyllus	jackfruit
+Arundina graminifolia	bamboo orchid
+Arundinella hispida	rabo de gato
+Arundo donax	giant reed
+Asclepias curassavica	bloodflower
+Asclepias nivea	Caribbean milkweed
+Asparagus aethiopicus	Sprenger's asparagus fern
+Asparagus setaceus	common asparagus fern
+Asplenium abscissum	cutleaf spleenwort
+Asplenium auriculatum	treetrunk spleenwort
+Asplenium cirrhatum	chestnut scale spleenwort
+Asplenium corderoanum	Rio Abajo spleenwort
+Asplenium cristatum	parsley spleenwort
+Asplenium cuneatum	wedgeleaf spleenwort
+Asplenium erosum	eared spleenwort
+Asplenium feei	Fee's spleenwort
+Asplenium flabellulatum	Latin American spleenwort
+Asplenium formosum	showy spleenwort
+Asplenium heterochroum	bicolored spleenwort
+Asplenium juglandifolium	walnut spleenwort
+Asplenium laetum	brownstem spleenwort
+Asplenium obtusifolium	bluntleaf spleenwort
+Asplenium ocoense	rockledge spleenwort
+Asplenium pseudoerectum	Antilles spleenwort
+Asplenium pteropus	West Indian spleenwort
+Asplenium pumilum	dwarf spleenwort
+Asplenium radicans	dullgreen spleenwort
+Asplenium rhomboidale	Caribbean spleenwort
+Asplenium rutaceum	rue spleenwort
+Asplenium salicifolium	willowleaf spleenwort
+Asplenium serra	creeping spleenwort
+Asplenium serratum	wild birdnest fern
+Asplenium sessilifolium	Hispaniolan spleenwort
+Asplenium trichomanes-dentatum	toothed spleenwort
+Asplenium uniseriale	shinystem spleenwort
+Asplenium verecundum	limestone spleenwort
+Astrolepis sinuata	wavy scaly cloakfern
+Asystasia gangetica	Chinese violet
+Atriplex cristata	crested saltbush
+Atriplex littoralis	grassleaf orache
+Auerodendron pauciflorum	turtlefat
+Avena sativa	common oat
+Averrhoa carambola	carambola
+Avicennia germinans	black mangrove
+Axonopus aureus	golden carpetgrass
+Axonopus compressus	broadleaf carpetgrass
+Axonopus fissifolius	common carpetgrass
+Ayenia ardua	wingstem ayenia
+Ayenia insulicola	dwarf ayenia
+Azadirachta indica	neem
+Azolla caroliniana	Carolina mosquitofern
+Baccharis dioica	broombush false willow
+Baccharis myrsinites	Santo Domingo false willow
+Bacopa innominata	tropical waterhyssop
+Bacopa monnieri	herb of grace
+Bacopa repens	creeping waterhyssop
+Bacopa stricta	yerba de culebra
+Bambusa multiplex	hedge bamboo
+Bambusa vulgaris	common bamboo
+Banara portoricensis	Puerto Rico palo de ramon
+Banara vanderbiltii	Vanderbilt's palo de ramon
+Banisteriopsis lucida	paralejo de monte
+Barbieria pinnata	clitoria
+Barleria cristata	crested Philippine violet
+Barleria lupulina	hophead Philippine violet
+Barleria prionitis	porcupine flower
+Barleriola solanifolia	false Philippine violet
+Barringtonia asiatica	sea putat
+Basella alba	Ceylon spinach
+Basiphyllaea corallicola	Carter's orchid
+Bastardia bivalvis	escoba babosa
+Bastardia viscosa	viscid mallow
+Bastardiopsis eggersii	Jost Van Dyke's Indian mallow
+Batis maritima	turtleweed
+Bauhinia galpinii	African plume
+Bauhinia monandra	Napoleon's plume
+Bauhinia multinervia	petite flamboyant bauhinia
+Bauhinia pauletia	railroadfence
+Bauhinia purpurea	butterfly tree
+Bauhinia tomentosa	St. Thomas tree
+Bauhinia variegata	mountain ebony
+Begonia coccinea	scarlet begonia
+Begonia convolvulacea	morning-glory begonia
+Begonia cucullata	clubed begonia
+Begonia decandra	native begonia
+Begonia heracleifolia	starleaf begonia
+Begonia hirtella	Brazilian begonia
+Begonia nelumbiifolia	lilypad begonia
+Beilschmiedia pendula	slugwood
+Belamcanda chinensis	blackberry lily
+Bernardia dichotoma	Caribbean myrtlecroton
+Beta vulgaris	common beet
+Bidens alba	romerillo
+Bidens cynapiifolia	West Indian beggarticks
+Bidens pilosa	hairy beggarticks
+Bidens reptans	manzanilla trepador
+Billbergia pyramidalis	foolproofplant
+Bixa orellana	lipsticktree
+Blechnum divergens	ravine midsorus fern
+Blechnum fragile	fragile midsorus fern
+Blechnum insularum	graceful midsorus fern
+Blechnum lineatum	rockbank midsorus fern
+Blechnum occidentale	hammock fern
+Blechnum polypodioides	narrowleaf midsorus fern
+Blechnum serrulatum	toothed midsorus fern
+Bletia patula	flor de pasmo
+Blighia sapida	akee
+Blutaparon vermiculare	silverhead
+Bocconia frutescens	parrotweed
+Boehmeria cylindrica	smallspike false nettle
+Boehmeria nivea	Chinese grass
+Boehmeria repens	West Indian false nettle
+Boerhavia coccinea	scarlet spiderling
+Boerhavia diffusa	red spiderling
+Boerhavia erecta	erect spiderling
+Boerhavia scandens	climbing wartclub
+Bolbitis aliena	diamond creepingfern
+Bolbitis nicotianifolia	thinleaf creepingfern
+Bolbitis pergamentacea	woodland creepingfern
+Bolbitis portoricensis	Puerto Rico creepingfern
+Bontia daphnoides	white alling
+Borrichia arborescens	tree seaside tansy
+Bothriochloa ischaemum	yellow bluestem
+Bothriochloa pertusa	pitted beardgrass
+Bothriochloa saccharoides	silver bluestem
+Botrychium jenmanii	Dixie grapefern
+Bouchea prismatica	prism bouchea
+Bougainvillea glabra	paperflower
+Bougainvillea spectabilis	great bougainvillea
+Bourreria radula	rough strongbark
+Bourreria succulenta	bodywood
+Bourreria virgata	roble de guayo
+Bouteloua americana	American grama
+Bouteloua juncea	lamilla
+Bouteloua repens	slender grama
+Brachionidium ciliolatum	hairy cup orchid
+Brachionidium sherringii	Sherring's cup orchid
+Brachyelytrum erectum	bearded shorthusk
+Bracteantha bracteata	bracted strawflower
+Brasiliopuntia brasiliensis	Brazilian pricklypear
+Brassavola cucullata	daddy longlegs orchid
+Brassavola nodosa	lady of the night orchid
+Brassica juncea	brown mustard
+Brassica oleracea	cabbage
+Breynia disticha	snowbush
+Bromelia pinguin	pinguin
+Broughtonia domingensis	king orchid
+Browallia americana	Jamaican forget-me-not
+Brugmansia ×candida	angel's-trumpet
+Brugmansia suaveolens	angel's-tears
+Brunellia comocladiifolia	West Indian sumac
+Brunfelsia americana	American brunfelsia
+Brunfelsia densifolia	Serpentine Hill raintree
+Brunfelsia lactea	vega blanca
+Brunfelsia nitida	Cuban raintree
+Brunfelsia portoricensis	Puerto Rico raintree
+Brya ebenus	ebony coccuswood
+Buchenavia tetraphylla	fourleaf buchenavia
+Buchnera americana	American bluehearts
+Buchnera longifolia	elongated bluehearts
+Bucida buceras	gregorywood
+Buddleja davidii	orange eye butterflybush
+Buddleja madagascariensis	smokebush
+Bulbophyllum pachyrachis	rat-tail orchid
+Bulbostylis antillana	densetuft hairsedge
+Bulbostylis capillaris	densetuft hairsedge
+Bulbostylis curassavica	West Indian hairsedge
+Bulbostylis juncoides	rush hairsedge
+Bulbostylis pauciflora	fewflower hairsedge
+Bulbostylis stenocarpa	Caribbean hairsedge
+Bulbostylis subaphylla	
+Bulbostylis vestita	tufted hairsedge
+Bunchosia glandulifera	cafe falso
+Bunchosia glandulosa	cafe forastero
+Bunchosia polystachia	woodland coffee
+Burmannia biflora	northern bluethread
+Burmannia capitata	southern bluethread
+Bursera simaruba	gumbo limbo
+Buxus portoricensis	Puerto Rico box
+Buxus vahlii	Vahl's box
+Byrsonima crassifolia	maricao cimun
+Byrsonima lucida	Long Key locustberry
+Byrsonima spicata	doncella
+Byrsonima wadsworthii	almendrillo
+Cabomba furcata	forked fanwort
+Cabomba haynesii	fishgrass
+Caesalpinia bonduc	yellow nicker
+Caesalpinia ciliata	mato
+Caesalpinia coriaria	divi divi
+Caesalpinia culebrae	smooth yellow nicker
+Caesalpinia decapetala	shoofly
+Caesalpinia divergens	small yellow nicker
+Caesalpinia gilliesii	bird-of-paradise shrub
+Caesalpinia major	Hawai'i pearls
+Caesalpinia monensis	black nicker
+Caesalpinia portoricensis	brown nicker
+Caesalpinia pulcherrima	pride-of-Barbados
+Cajanus cajan	pigeonpea
+Cakile lanceolata	coastal searocket
+Caladium bicolor	heart of Jesus
+Calathea allouia	llerenes
+Calathea crotalifera	rattlesnake plant
+Calathea lutea	pampano
+Calathea zebrina	zebraplant
+Calliandra haematomma	red powderpuff
+Calliandra locoensis	Rio Loc stickpea
+Calliandra surinamensis	Surinamese stickpea
+Callicarpa ampla	caparosa
+Callisia fragrans	basketplant
+Callisia monandra	cojite morado
+Callisia repens	creeping inchplant
+Callistemon citrinus	crimson bottlebrush
+Caloncoba echinata	caloncoba
+Calophyllum antillanum	Antilles calophyllum
+Calophyllum inophyllum	Alexandrian laurel
+Calopogonium caeruleum	jicama
+Calopogonium mucunoides	calopo
+Calotropis procera	roostertree
+Calycophyllum candidissimum	degame
+Calyptranthes acevedoi	Puerto Rico mountainbay
+Calyptranthes estremenae	Las Cuevas mountainbay
+Calyptranthes krugii	limoncillo
+Calyptranthes luquillensis	Luquillo forest lidflower
+Calyptranthes martorellii	Martorell's lidflower
+Calyptranthes pallens	pale lidflower
+Calyptranthes peduncularis	Maricao lidflower
+Calyptranthes portoricensis	Puerto Rico lidflower
+Calyptranthes sintenisii	limoncillo de monte
+Calyptranthes thomasiana	Thomas' lidflower
+Calyptranthes triflora	threeblossom lidflower
+Calyptranthes woodburyi	Woodbury's lidflower
+Calyptranthes zuzygium	myrtle of the river
+Calyptronoma rivalis	Puerto Rico manac
+Campylocentrum fasciolum	arboreal bentspur orchid
+Campylocentrum filiforme	needleroot bentspur orchid
+Campylocentrum micranthum	fairy bentspur orchid
+Campylocentrum pachyrrhizum	leafless bentspur orchid
+Campylocentrum pygmaeum	pygmy bentspur orchid
+Campyloneurum angustifolium	narrow strapfern
+Campyloneurum costatum	tailed strapfern
+Campyloneurum latum	birdwing fern
+Campyloneurum phyllitidis	long strapfern
+Campyloneurum repens	creeping strapfern
+Cananga odorata	ilang-ilang
+Canavalia ensiformis	jack bean
+Canavalia nitida	Bahama baybean
+Canavalia rosea	baybean
+Canella winterana	wild cinnamon
+Cannabis sativa	marijuana
+Canna glauca	maraca amarilla
+Canna indica	Indian shot
+Canna jaegeriana	Caribbean canna
+Canna pertusa	maraca montuna
+Canna sylvestris	maraca roja
+Caperonia palustris	sacatrapo
+Capparis amplissima	burro blanco
+Capparis baducca	caper
+Capparis cynophallophora	Jamaican caper
+Capparis flexuosa	falseteeth
+Capparis hastata	broadleaf caper
+Capparis indica	linguam
+Capraria biflora	goatweed
+Capsicum annuum	cayenne pepper
+Cardamine flexuosa	woodland bittercress
+Cardiospermum corindum	faux persil
+Cardiospermum halicacabum	balloon vine
+Cardiospermum microcarpum	heartseed
+Carex longii	Long's sedge
+Carex polystachya	Caribbean sedge
+Carica papaya	papaya
+Carissa macrocarpa	amatungulu
+Carludovica palmata	Panama hat plant
+Casearia aculeata	rabo de ranton
+Casearia arborea	gia verde
+Casearia decandra	wild honeytree
+Casearia guianensis	Guyanese wild coffee
+Casearia sylvestris	crackopen
+Cassia fistula	golden shower
+Cassia grandis	pink shower
+Cassia javanica	apple blossom
+Cassine xylocarpa	marbletree
+Cassipourea guianensis	goatwood
+Cassytha filiformis	devil's gut
+Castela erecta	goatbush
+Castilla elastica	Panama rubbertree
+Casuarina cunninghamiana	river sheoak
+Casuarina equisetifolia	beach sheoak
+Casuarina lepidophloia	belah
+Catalpa longissima	Haitian catalpa
+Catesbaea melanocarpa	tropical lilythorn
+Catesbaea parviflora	smallflower lilythorn
+Catharanthus roseus	Madagascar periwinkle
+Catopsis berteroniana	powdery strap airplant
+Catopsis floribunda	Florida strap airplant
+Catopsis nitida	Caribbean strap airplant
+Catopsis nutans	nodding strap airplant
+Catopsis sessiliflora	sessileleaf strap airplant
+Cayaponia americana	American melonleaf
+Cayaponia racemosa	mountain melonleaf
+Cecropia schreberiana	pumpwood
+Cedrela odorata	Spanish cedar
+Ceiba aesculifolia	pochote
+Ceiba pentandra	kapoktree
+Celosia argentea	silver cock's comb
+Celosia nitida	West Indian cock's comb
+Celosia virgata	albahaca
+Celtis iguanaea	iguana hackberry
+Celtis trinervia	almex
+Cenchrus brownii	slimbristle sandbur
+Cenchrus echinatus	southern sandbur
+Cenchrus gracillimus	slender sandbur
+Cenchrus myosuroides	big sandbur
+Cenchrus spinifex	coastal sandbur
+Centella erecta	erect centella
+Centratherum punctatum	larkdaisy
+Centrosema molle	soft butterfly pea
+Centrosema plumieri	feefee
+Centrosema pubescens	flor de conchitas
+Centrosema virginianum	spurred butterfly pea
+Ceratophyllum demersum	coon's tail
+Ceratopteris richardii	triangle waterfern
+Ceratopteris thalictroides	watersprite
+Cereus hexagonus	lady of the night cactus
+Cereus hildmannianus	hedge cactus
+Cestrum alternifolium	alternateleaf jessamine
+Cestrum diurnum	day jessamine
+Cestrum laurifolium	galen del monte
+Cestrum nocturnum	night jessamine
+Cestrum salicifolium	pussywillow jessamine
+Chamaecrista diphylla	twoleaf sensitive pea
+Chamaecrista glandulosa	Jamaican broom
+Chamaecrista lineata	narrowpod sensitive pea
+Chamaecrista nictitans	sensitive partridge pea
+Chamaecrista portoricensis	Puerto Rico sensitive pea
+Chamaecrista rotundifolia	roundleaf sensitive pea
+Chamaesyce adenoptera	southern Florida sandmat
+Chamaesyce articulata	jointed sandmat
+Chamaesyce berteriana	Berteron's sandmat
+Chamaesyce blodgettii	limestone sandmat
+Chamaesyce cowellii	Cowell's sandmat
+Chamaesyce hirta	pillpod sandmat
+Chamaesyce hypericifolia	graceful sandmat
+Chamaesyce hyssopifolia	hyssopleaf sandmat
+Chamaesyce lasiocarpa	roadside sandmat
+Chamaesyce mesembrianthemifolia	coastal beach sandmat
+Chamaesyce nutans	eyebane
+Chamaesyce ophthalmica	Florida hammock sandmat
+Chamaesyce orbifolia	Mona Island sandmat
+Chamaesyce prostrata	prostrate sandmat
+Chamaesyce serpens	matted sandmat
+Chamaesyce thymifolia	gulf sandmat
+Chamaesyce turpinii	Turpin's sandmat
+Chamissoa altissima	false chaff flower
+Chaptalia albicans	white sunbonnets
+Chaptalia dentata	pineland daisy
+Chaptalia nutans	heal and draw
+Cheilanthes microphylla	southern lipfern
+Cheilanthes paupercula	streambank lipfern
+Cheiroglossa palmata	hand fern
+Chenopodium murale	nettleleaf goosefoot
+Chiococca alba	West Indian milkberry
+Chiococca parvifolia	pineland milkberry
+Chionanthus axilliflorus	hueso
+Chionanthus compactus	bridgotree
+Chionanthus domingensis	white rosewood
+Chionanthus holdridgei	hueso prieto
+Chionanthus ligustrinus	cabra blanca
+Chione seminervis	puntaj jayuya
+Chione venosa	fatpork
+Chloris barbata	swollen fingergrass
+Chloris ciliata	fringed windmill grass
+Chloris cubensis	Cuban windmill grass
+Chloris elata	tall windmill grass
+Chloris radiata	radiate fingergrass
+Chloris sagraeana	roadside windmill grass
+Chorisia speciosa	silk-floss tree
+Chromolaena borinquensis	limestone thoroughwort
+Chromolaena corymbosa	Caribbean thoroughwort
+Chromolaena geraniifolia	geraniumleaf thoroughwort
+Chromolaena ivifolia	ivyleaf thoroughwort
+Chromolaena odorata	Jack in the bush
+Chromolaena oteroi	Mona Island thoroughwort
+Chromolaena sinuata	wavyleaf thoroughwort
+Chrysobalanus icaco	coco plum
+Chrysophyllum argenteum	bastard redwood
+Chrysophyllum cainito	star apple
+Chrysophyllum oliviforme	satinleaf
+Chrysophyllum pauciflorum	camito de perro
+Chrysothemis pulchella	squarestem
+Chusquea abietifolia	climbing bamboo
+Cicer arietinum	chick pea
+Cinnamomum camphora	camphortree
+Cinnamomum elongatum	laurel avispillo
+Cinnamomum montanum	avispillo
+Cinnamomum verum	cinnamon
+Cirsium mexicanum	Mexican thistle
+Cissampelos pareira	velvetleaf
+Cissus erosa	caro de tres hojas
+Cissus intermedia	intermediate treebine
+Cissus obovata	spoonleaf treebine
+Cissus trifoliata	sorrelvine
+Cissus tuberculata	West Indian treebine
+Cissus verticillata	seasonvine
+Citharexylum caudatum	juniper berry
+Citharexylum ×perkinsii	fiddlewood
+Citharexylum spinosum	spiny fiddlewood
+Citrullus lanatus	watermelon
+Citrus ×aurantiifolia	key lime
+Citrus ×aurantium	sour orange
+Citrus limetta	bitter orange
+Citrus ×limonia	Mandarin lime
+Citrus ×limon	lemon
+Citrus maxima	shaddock
+Citrus medica	citron
+Citrus ×paradisi	grapefruit
+Citrus reticulata	tangerine
+Citrus ×sinensis	sweet orange
+Cladium colocasia	malanga
+Cladium mariscus	swamp sawgrass
+Clematis dioica	cabellos de angel
+Cleome aculeata	prickly spiderflower
+Cleome gynandra	spiderwisp
+Cleome hassleriana	pink queen
+Cleome serrata	toothed spiderflower
+Cleome speciosa	volantines preciosos
+Cleome spinosa	spiny spiderflower
+Cleome stenophylla	tropical spiderflower
+Cleome viscosa	Asian spiderflower
+Clerodendrum aculeatum	haggarbush
+Clerodendrum bungei	rose glorybower
+Clerodendrum chinense	stickbush
+Clerodendrum speciosissimum	Javanese glorybower
+Clerodendrum ×speciosum	glorybower
+Clerodendrum wallichii	Wallich's glorybower
+Cleyera albopunctata	teta prieta
+Clibadium erosum	jackass breadnut
+Clidemia angustilamina	narrowleaf terciopelo
+Clidemia cymosa	camasey terciopelo
+Clidemia hirta	soapbush
+Clidemia strigillosa	thicket hogwood
+Clitoria fairchildiana	Philippine pigeonwings
+Clitoria falcata	sickle pigeonwings
+Clitoria laurifolia	laurel-leaf pigeonwings
+Clitoria ternatea	Asian pigeonwings
+Clusia clusioides	cupeillo
+Clusia gundlachii	Grundlach's attorney
+Clusia minor	cupey de monte
+Clusia rosea	Scotch attorney
+Cnemidaria horrida	deepwoods fern
+Cnidoscolus aconitifolius	treadsoftly
+Coccocypselum herbaceum	yerba de guava
+Coccoloba costata	uvilla
+Coccoloba diversifolia	tietongue
+Coccoloba krugii	whitewood
+Coccoloba microstachya	puckhout
+Coccoloba pallida	pale seagrape
+Coccoloba pubescens	grandleaf seagrape
+Coccoloba pyrifolia	uvera
+Coccoloba rugosa	ortegon
+Coccoloba sintenisii	uvero de monte
+Coccoloba swartzii	Swartz's pigeonplum
+Coccoloba tenuifolia	Bahama pigeonplum
+Coccoloba uvifera	seagrape
+Coccoloba venosa	false chiggergrape
+Coccothrinax barbadensis	Puerto Rico silver palm
+Cochleanthes flabelliformis	fanshape orchid
+Cochlidium jungens	mountain snailfern
+Cochlidium rostratum	beaked snailfern
+Cochlidium seminudum	tree snailfern
+Cochlidium serrulatum	toothed snailfern
+Cochlospermum vitifolium	silk cottontree
+Cocos nucifera	coconut palm
+Codariocalyx gyroides	false tick trefoil
+Codiaeum variegatum	garden croton
+Coffea arabica	Arabian coffee
+Coffea liberica	Liberian coffee
+Coix lacryma-jobi	Job's tears
+Cojoba arborea	wild tamarind
+Cola acuminata	abata cola
+Colocasia esculenta	coco yam
+Colubrina arborescens	greenheart
+Colubrina elliptica	soldierwood
+Colubrina glandulosa	glandular nakedwood
+Colubrina verrucosa	Urban's nakedwood
+Columnea ambigua	tibey de cresta
+Columnea scandens	tibey parasito
+Commelina benghalensis	jio
+Commelina diffusa	climbing dayflower
+Commelina erecta	whitemouth dayflower
+Commelina rufipes	cojite blanco
+Commelina virginica	Virginia dayflower
+Comocladia dodonaea	poison ash
+Comocladia glabra	carrasco
+Comparettia falcata	snail orchid
+Condylidium iresinoides	villalba
+Congea tomentosa	lluvia de orquideas
+Conocarpus erectus	button mangrove
+Conostegia rufescens	Luquillo Mountain snailwood
+Consolea moniliformis	tuna
+Consolea rubescens	sour pricklypear
+Convolvulus nodiflorus	aguinaldo blanco
+Conyza canadensis	Canadian horseweed
+Conyza floribunda	asthmaweed
+Conyza laevigata	manzanilla horseweed
+Conyza primulifolia	primroseleaf horseweed
+Copaifera officinalis	copaiba
+Corchorus aestuans	jute
+Corchorus hirsutus	jackswitch
+Corchorus hirtus	Orinoco jute
+Corchorus siliquosus	slippery burr
+Cordia alliodora	Spanish elm
+Cordia angustifolia	basora
+Cordia bahamensis	Bahama manjack
+Cordia bellonis	serpentine manjack
+Cordia borinquensis	muneco
+Cordia collococca	red manjack
+Cordia gerascanthus	yauco
+Cordia globosa	curaciao bush
+Cordia laevigata	smooth manjack
+Cordia lima	lija
+Cordia obliqua	clammy cherry
+Cordia polycephala	black-sage
+Cordia rickseckeri	San Bartolome
+Cordia rupicola	Puerto Rico manjack
+Cordia sebestena	largeleaf geigertree
+Cordia sulcata	mucilage manjack
+Cordia wagneriorum	Luquillo Mountain manjack
+Cordyline fruticosa	tiplant
+Coriandrum sativum	coriander
+Cornutia obovata	nigua
+Cornutia pyramidata	azulejo
+Coronopus didymus	lesser swinecress
+Corymbia citriodora	lemonscented gum
+Corymborkis forcipigera	lime orchid
+Cosmos caudatus	wild cosmos
+Cosmos sulphureus	sulphur cosmos
+Costus guanaiensis	cana de India
+Costus malortieanus	stepladder ginger
+Costus scaber	spiral ginger
+Costus speciosus	canereed
+Costus spicatus	spiked spiralflag
+Couroupita guianensis	cannonball tree
+Coursetia caribaea	anil falso
+Cranichis muscosa	cypress-knee helmet orchid
+Cranichis ricartii	Puerto Rico helmet orchid
+Craniolaria annua	escorzonera
+Crassocephalum crepidioides	redflower ragleaf
+Crescentia alata	morrito
+Crescentia cujete	common calabash tree
+Crescentia linearifolia	higuerito
+Crescentia portoricensis	higuero de sierra
+Crinum zeylanicum	Ceylon swamplily
+Critonia portoricensis	Puerto Rico thoroughwort
+Crocosmia ×crocosmiiflora	montbretia
+Crossopetalum rhacoma	maidenberry
+Crotalaria berteriana	Berteron's rattlebox
+Crotalaria brevidens	Ethiopian rattlebox
+Crotalaria incana	shakeshake
+Crotalaria juncea	sunn hemp
+Crotalaria lotifolia	cascabelillo axilar
+Crotalaria micans	Caracas rattlebox
+Crotalaria pallida	smooth rattlebox
+Crotalaria retusa	rattleweed
+Crotalaria rotundifolia	rabbitbells
+Crotalaria sagittalis	arrowhead rattlebox
+Crotalaria saltiana	African rattlebox
+Crotalaria spectabilis	showy rattlebox
+Crotalaria stipularia	cascabelillo alado
+Crotalaria trichotoma	West Indian rattlebox
+Crotalaria verrucosa	blue rattlesnake
+Croton astroites	wild marrow
+Croton betulinus	beechleaf croton
+Croton discolor	lechecillo
+Croton flavens	yellow balsam
+Croton glandulosus	vente conmigo
+Croton humilis	pepperbush
+Croton impressus	Puerto Rico croton
+Croton lobatus	lobed croton
+Croton lucidus	firebush
+Croton nummulariifolius	money croton
+Croton ovalifolius	yerba
+Croton poecilanthus	sabinon
+Croton stenophyllus	West Indian croton
+Cryptostegia grandiflora	Palay rubbervine
+Cryptostegia madagascariensis	Madagascar rubbervine
+Ctenitis hirta	diamondleaf lacefern
+Ctenitis nemorosa	eggleaf lacefern
+Cucumis anguria	West Indian gherkin
+Cucumis melo	cantaloupe
+Cucumis sativus	garden cucumber
+Cucurbita maxima	winter squash
+Cucurbita moschata	crookneck squash
+Cucurbita pepo	field pumpkin
+Cupania americana	wild ackee
+Cupania triquetra	guara blanca
+Cuphea hyssopifolia	false heather
+Cuphea micrantha	tinypetal waxweed
+Cuphea parsonsia	island waxweed
+Cuphea strigulosa	stiffhair waxweed
+Curculigo capitulata	palm-grass
+Curculigo scorzonerifolia	gorgojo
+Curcuma longa	common turmeric
+Cuscuta americana	American dodder
+Cuscuta boldinghii	Boldingh's dodder
+Cuscuta globulosa	West Indian dodder
+Cuscuta indecora	bigseed alfalfa dodder
+Cuscuta obtusiflora	Peruvian dodder
+Cuscuta pentagona	fiveangled dodder
+Cuscuta umbellata	flatglobe dodder
+Cyanthillium cinereum	little ironweed
+Cyathea andina	parrotfeather treefern
+Cyathea arborea	West Indian treefern
+Cyathea armata	creeping treefern
+Cyathea borinquena	birdwing treefern
+Cyathea furfuracea	Jamaican treefern
+Cyathea parvula	small treefern
+Cyathea pungens	spiny treefern
+Cyathea tenera	helecho gigante
+Cyathula prostrata	pastureweed
+Cybianthus sintenisii	Puerto Rico ridgerunner
+Cycas circinalis	queen sago
+Cycas revoluta	sago palm
+Cyclopeltis semicordata	lime fern
+Cyclopogon cranichoides	cranichis-like ladies'-tresses
+Cyclopogon elatus	tall ladies'-tresses
+Cyclopogon miradorense	Mirador green ladies'-tresses
+Cyclospermum leptophyllum	marsh parsley
+Cydista aequinoctialis	guard withe
+Cymbocarpa refracta	cat's milk
+Cymbopogon citratus	lemon grass
+Cymbopogon nardus	citronella grass
+Cymodocea filiformis	manatee grass
+Cynanchum anegadense	Caribbean swallow-wort
+Cynanchum cheesmanii	Cheesman's swallow-wort
+Cynanchum cubense	Cuban swallow-wort
+Cynanchum ephedroides	Puerto Rico swallow-wort
+Cynanchum grisebachianum	Grisebach's swallow-wort
+Cynanchum lineare	West Indian swallow-wort
+Cynanchum monense	Mona Island swallow-wort
+Cynanchum parviflorum	smallflower swallow-wort
+Cynodon dactylon	Bermudagrass
+Cynodon nlemfuensis	African Bermudagrass
+Cynoglossum amabile	Chinese hound's tongue
+Cynoglossum furcatum	Ceylon hound's tongue
+Cynometra portoricensis	oreganillo falso
+Cyperus aggregatus	inflatedscale flatsedge
+Cyperus articulatus	jointed flatsedge
+Cyperus calcicola	Caribbean flatsedge
+Cyperus compressus	poorland flatsedge
+Cyperus confertus	West Indian flatsedge
+Cyperus croceus	Baldwin's flatsedge
+Cyperus difformis	variable flatsedge
+Cyperus digitatus	finger flatsedge
+Cyperus distans	Piedmont flatsedge
+Cyperus elegans	royal flatsedge
+Cyperus entrerianus	woodrush flatsedge
+Cyperus esculentus	yellow nutsedge
+Cyperus filiformis	wiry flatsedge
+Cyperus flavescens	yellow flatsedge
+Cyperus flexuosus	Vahl's flatsedge
+Cyperus floridanus	Florida flatsedge
+Cyperus fuligineus	limestone flatsedge
+Cyperus giganteus	giant flatsedge
+Cyperus haspan	haspan flatsedge
+Cyperus imbricatus	shingle flatsedge
+Cyperus involucratus	umbrella plant
+Cyperus iria	ricefield flatsedge
+Cyperus laevigatus	smooth flatsedge
+Cyperus ligularis	Alabama swamp flatsedge
+Cyperus mutisii	Mutis' flatsedge
+Cyperus nanus	Indian flatsedge
+Cyperus ochraceus	pond flatsedge
+Cyperus odoratus	fragrant flatsedge
+Cyperus papyrus	papyrus
+Cyperus planifolius	flatleaf flatsedge
+Cyperus polystachyos	manyspike flatsedge
+Cyperus pulguerensis	El Pulguero flatsedge
+Cyperus rotundus	nutgrass
+Cyperus sphacelatus	roadside flatsedge
+Cyperus surinamensis	tropical flatsedge
+Cyperus swartzii	Swartz's flatsedge
+Cyperus tenuis	crevice flatsedge
+Cyperus unioloides	uniola flatsedge
+Cyperus urbanii	Urban's flatsedge
+Cyperus virens	green flatsedge
+Cypselea humifusa	panal
+Cyrilla racemiflora	swamp titi
+Cyrtopodium punctatum	cowhorn orchid
+Dacryodes excelsa	candletree
+Dactylis glomerata	orchardgrass
+Dactyloctenium aegyptium	Egyptian grass
+Dalbergia ecastaphyllum	coinvine
+Dalbergia monetaria	moneybush
+Dalbergia sissoo	Indian rosewood
+Dalea carthagenensis	Cartagena prairie clover
+Dalechampia scandens	spurgecreeper
+Danaea elliptica	Caribbean danafern
+Danaea jamaicensis	Jamaican danafern
+Danaea jenmanii	Puerto Rico danafern
+Danaea nodosa	nodeless danafern
+Danaea urbanii	forest danafern
+Daphnopsis americana	burn nose
+Daphnopsis helleriana	Heller's cieneguillo
+Daphnopsis philippiana	emajagua de sierra
+Datura inoxia	pricklyburr
+Datura stramonium	jimsonweed
+Datura wrightii	sacred thorn-apple
+Daucus carota	Queen Anne's lace
+Delonix regia	royal poinciana
+Dendropanax arboreus	angelica tree
+Dendropanax laurifolius	palo de vaca
+Dendropemon bicolor	Puerto Rico leechbush
+Dendropemon caribaeus	four-angle leechbush
+Dendropemon purpureus	smooth leechbush
+Dendropemon sintenisii	hicaquillo
+Dendrophthora domingensis	Cuban tree destroyer
+Dendrophthora flagelliformis	Caribbean tree destroyer
+Dendrophthora serpyllifolia	Hispaniolan tree destroyer
+Dennstaedtia bipinnata	cuplet fern
+Dennstaedtia cicutaria	tropical hayscented fern
+Dennstaedtia globulifera	southern hayscented fern
+Dennstaedtia obtusifolia	bluntleaf hayscented fern
+Desmanthus leptophyllus	slenderleaf bundleflower
+Desmanthus pernambucanus	pigeon bundleflower
+Desmanthus virgatus	wild tantan
+Desmodium adscendens	zarzabacoa galana
+Desmodium affine	amor seco
+Desmodium axillare	zarzabacoa de monte
+Desmodium barbatum	zarzabacoa peluda
+Desmodium cubense	Cuban ticktrefoil
+Desmodium glabrum	zarzabacoa dulce
+Desmodium incanum	zarzabacoa comun
+Desmodium intortum	greenleaf ticktrefoil
+Desmodium procumbens	western trailing ticktrefoil
+Desmodium scorpiurus	scorpion ticktrefoil
+Desmodium tortuosum	dixie ticktrefoil
+Desmodium triflorum	threeflower ticktrefoil
+Desmodium wydlerianum	Wydler's ticktrefoil
+Dichaea hystricina	arboreal leafystem orchid
+Dichaea latifolia	mountain leafystem orchid
+Dichaea pendula	Swartz's leafystem orchid
+Dichanthelium aciculare	needleleaf rosette grass
+Dichanthelium acuminatum	tapered rosette grass
+Dichanthelium dichotomum	cypress panicgrass
+Dichanthelium leucothrix	rough panicgrass
+Dichanthelium ovale	eggleaf rosette grass
+Dichanthelium sabulorum	hemlock rosette grass
+Dichanthelium scoparium	velvet panicum
+Dichanthelium strigosum	roughhair rosette grass
+Dichanthium annulatum	Kleberg's bluestem
+Dichanthium aristatum	Angleton bluestem
+Dichondra micrantha	Asian ponysfoot
+Dicliptera krugii	Krug's foldwing
+Dicliptera martinicensis	Martinique foldwing
+Dicliptera sexangularis	sixangle foldwing
+Dicranopteris flexuosa	drooping forkedfern
+Dicranopteris pectinata	comb forkedfern
+Dicranopteris rubiginosa	tropical forkedfern
+Diectomis fastigiata	foldedleaf grass
+Dieffenbachia seguine	dumbcane
+Digitaria argillacea	tropical crabgrass
+Digitaria bicornis	Asian crabgrass
+Digitaria ciliaris	southern crabgrass
+Digitaria dolichophylla	Caribbean crabgrass
+Digitaria eriantha	digitgrass
+Digitaria horizontalis	Jamaican crabgrass
+Digitaria insularis	sourgrass
+Digitaria ischaemum	smooth crabgrass
+Digitaria longiflora	Indian crabgrass
+Digitaria nuda	naked crabgrass
+Digitaria panicea	millet crabgrass
+Digitaria sanguinalis	hairy crabgrass
+Digitaria setigera	East Indian crabgrass
+Digitaria similis	roadside crabgrass
+Digitaria villosa	shaggy crabgrass
+Digitaria violascens	violet crabgrass
+Dillenia indica	chulta
+Dilomilis montana	parrotbeak orchid
+Dioclea hexandra	bejuco de mato
+Diodia apiculata	stiff buttonweed
+Diodia ocymifolia	slender buttonweed
+Diodia sarmentosa	tropical buttonweed
+Diodia serrulata	seaside buttonweed
+Dioscorea alata	water yam
+Dioscorea altissima	dunguey
+Dioscorea bulbifera	air yam
+Dioscorea cayenensis	yellow guinea yam
+Dioscorea esculenta	lesser yam
+Dioscorea pilosiuscula	bulbous yam
+Dioscorea polygonoides	mata gallina
+Dioscorea rotundata	Guinea yam
+Dioscorea trifida	Indian yam
+Dioscorea villosa	wild yam
+Diospyros revoluta	black apple
+Diospyros sintenisii	Chinese persimmon
+Diplazium centripetale	royal twinsorus fern
+Diplazium cristatum	crested twinsorus fern
+Diplazium expansum	great fern
+Diplazium grandifolium	largeleaf twinsorus fern
+Diplazium hymenodes	peacock fern
+Diplazium lherminieri	L'herminier's twinsorus fern
+Diplazium plantaginifolium	plantainleaf twinsorus fern
+Diplazium riedelianum	Riedel's twinsorus fern
+Diplazium striatum	striped twinsorus fern
+Diplazium unilobum	singlelobe twinsorus fern
+Dissotis rotundifolia	pinklady
+Distictis lactiflora	liana fragante
+Ditta myricoides	jaboncillo
+Dodonaea viscosa	Florida hopbush
+Doliocarpus major	caskfruit
+Doliocarpus olivaceus	green caskfruit
+Domingoa haematochila	mona
+Dorstenia contrajerva	tusilla
+Doryopteris pedata	digit fern
+Dovyalis hebecarpa	Ceylon gooseberry
+Doyerea emetocathartica	coralfruit
+Dracaena fragrans	fragrant dracaena
+Dracontium asperum	dracontium
+Dracontium polyphyllum	guapa
+Dracunculus vulgaris	common dracunculus
+Drosera capillaris	pink sundew
+Drymaria cordata	whitesnow
+Drypetes alba	cafeillo
+Drypetes glauca	varital
+Drypetes ilicifolia	rosewood
+Drypetes lateriflora	guiana plum
+Duranta erecta	golden dewdrops
+Dypsis lutescens	yellow butterfly palm
+Dysphania ambrosioides	Mexican tea
+Echinochloa colona	jungle rice
+Echinochloa crus-galli	barnyardgrass
+Echinochloa crus-pavonis	gulf cockspur grass
+Echinochloa polystachya	creeping river grass
+Echinochloa stagnina	hippo grass
+Echinodorus berteroi	upright burhead
+Echinodorus bolivianus	Bolivian burhead
+Echinodorus tenellus	mudbabies
+Eclipta prostrata	false daisy
+Egeria densa	Brazilian waterweed
+Eichhornia azurea	anchored water hyacinth
+Eichhornia crassipes	common water hyacinth
+Eichhornia diversifolia	variableleaf water hyacinth
+Elaphoglossum apodum	Caribbean tonguefern
+Elaphoglossum chartaceum	papery tonguefern
+Elaphoglossum crinitum	West Indian tonguefern
+Elaphoglossum decoratum	showy tonguefern
+Elaphoglossum eggersii	Jamaican tonguefern
+Elaphoglossum erinaceum	Guadeloupe tonguefern
+Elaphoglossum glabellum	thickroot tonguefern
+Elaphoglossum herminieri	drooping tonguefern
+Elaphoglossum latifolium	broadleaf tonguefern
+Elaphoglossum longifolium	longleaf tonguefern
+Elaphoglossum martinicense	Martinique tonguefern
+Elaphoglossum maxonii	Maxon's tonguefern
+Elaphoglossum peltatum	peltate tonguefern
+Elaphoglossum petiolatum	graceful tonguefern
+Elaphoglossum rigidum	stiff tonguefern
+Elaphoglossum serpens	cerro de punta jayuya
+Elaphoglossum simplex	Rio Grande tonguefern
+Elaphoglossum smithii	Smith's tonguefern
+Elaphoglossum spathulatum	Antilles tonguefern
+Eleocharis cellulosa	Gulf Coast spikerush
+Eleocharis debilis	Sintenis' Spike-Rush
+Eleocharis elegans	elegant spikerush
+Eleocharis fallax	creeping spikerush
+Eleocharis flavescens	yellow spikerush
+Eleocharis geniculata	Canada spikesedge
+Eleocharis interstincta	knotted spikerush
+Eleocharis microcarpa	smallfruit spikerush
+Eleocharis montana	mountain spikerush
+Eleocharis mutata	scallion grass
+Eleocharis oligantha	fewflowered spikerush
+Eleocharis olivacea	bright green spikerush
+Eleocharis pachycarpa	black sand spikerush
+Eleocharis pachystyla	false junco
+Eleocharis radicans	rooted spikerush
+Eleocharis retroflexa	coastal plain spikerush
+Eleocharis rostellata	beaked spikerush
+Elephantopus mollis	soft elephantsfoot
+Eleusine indica	Indian goosegrass
+Eleutheranthera ruderalis	ogiera
+Eleutherine bulbosa	lagrimas de la virgen
+Elleanthus cordidactylus	false tiger orchid
+Elodea canadensis	Canadian waterweed
+Eltroplectris calcarata	longclaw orchid
+Emilia coccinea	scarlet tasselflower
+Emilia fosbergii	Florida tasselflower
+Emilia sonchifolia	lilac tasselflower
+Encyclia gravida	heavyfruit butterfly orchid
+Encyclia isochila	royal star orchid
+Enicostema verticillatum	whitehead
+Entada polystachya	callingcard vine
+Enterolobium cyclocarpum	monkeysoap
+Enterosora trifurcata	threefork polypody
+Enydra sessilis	smallray swampwort
+Epidendrum anceps	brown-flower butterfly orchid
+Epidendrum antillanum	Antilles star orchid
+Epidendrum boricuarum	fleshy star orchid
+Epidendrum carpophorum	round-leaf star orchid
+Epidendrum ciliare	fringed star orchid
+Epidendrum jamaicense	umbrella star orchid
+Epidendrum miserrimum	woodland tuftedorchid
+Epidendrum mutelianum	orange-flower star orchid
+Epidendrum nocturnum	night scented orchid
+Epidendrum radicans	fire star orchid
+Epidendrum ramosum	mountain star orchid
+Epidendrum rigidum	stiff flower star orchid
+Epidendrum secundum	lopsided star orchid
+Epidendrum tridens	oblong-leaf star orchid
+Epidendrum vicentinum	guilarte
+Epiphyllum hookeri	climbing cactus
+Epiphyllum oxypetalum	Dutchman's pipe cactus
+Epipremnum pinnatum	centipede tongavine
+Episcia cupreata	flame violet
+Eragrostis amabilis	Japanese lovegrass
+Eragrostis barrelieri	Mediterranean lovegrass
+Eragrostis ciliaris	gophertail lovegrass
+Eragrostis curvula	weeping lovegrass
+Eragrostis elliottii	field lovegrass
+Eragrostis glutinosa	sticky lovegrass
+Eragrostis hypnoides	teal lovegrass
+Eragrostis pectinacea	tufted lovegrass
+Eragrostis pilosa	Indian lovegrass
+Eragrostis urbaniana	Urban's lovegrass
+Erechtites hieraciifolius	American burnweed
+Erechtites valerianifolius	tropical burnweed
+Eremochloa ophiuroides	centipede grass
+Erigeron bellioides	bellorita
+Erigeron cuneifolius	wedgeleaf fleabane
+Erigeron jamaicensis	Jamaican fleabane
+Eriobotrya japonica	loquat
+Eriochloa polystachya	Caribgrass
+Eriochloa punctata	Louisiana cupgrass
+Eriochrysis cayennensis	moco de pavo
+Eriosema crinitum	island sand pea
+Eriosorus hispidulus	chestnuthair fern
+Erithalis fruticosa	blacktorch
+Erithalis odorifer	scented blacktorch
+Ernodea littoralis	coughbush
+Erpodium domingense	Domingo erpodium moss
+Eryngium foetidum	spiritweed
+Erythrina berteriana	machete
+Erythrina corallodendron	coral erythrina
+Erythrina crista-galli	crybabytree
+Erythrina eggersii	cock's spur
+Erythrina fusca	bucayo
+Erythrina poeppigiana	mountain immortelle
+Erythrina variegata	tiger's claw
+Erythrodes hirtella	Cuban false helmetorchid
+Erythrodes plantaginea	Caribbean false helmetorchid
+Erythroxylum areolatum	swamp-redwood
+Erythroxylum brevipes	brisselet
+Erythroxylum rotundifolium	ratwood
+Erythroxylum rufum	rufous false cocaine
+Erythroxylum urbanii	Urban's false cocaine
+Etlingera elatior	torch-ginger
+Eubrachion ambiguum	tapeworm-plant
+Eucalyptus camaldulensis	river redgum
+Eucalyptus deglupta	Indonesian gum
+Eucalyptus resinifera	redmahogany
+Eucalyptus robusta	swampmahogany
+Eucharis amazonica	Amazonlily
+Euclasta condylotricha	mock bluestem
+Eugenia axillaris	white stopper
+Eugenia bellonis	Puerto Rico stopper
+Eugenia biflora	blackrodwood
+Eugenia boqueronensis	Sierra de Cayey stopper
+Eugenia borinquensis	guayabota de sierra
+Eugenia cacuminis	cerro la torrecilla stopper
+Eugenia confusa	redberry stopper
+Eugenia cordata	lathberry
+Eugenia corozalensis	sperry guava
+Eugenia domingensis	serrette guave
+Eugenia eggersii	guasabara
+Eugenia fajardensis	guayabota de Fajardo
+Eugenia foetida	boxleaf stopper
+Eugenia glabrata	smooth rodwood
+Eugenia haematocarpa	Luquillo Mountain stopper
+Eugenia laevis	bayamon stopper
+Eugenia ligustrina	privet stopper
+Eugenia monticola	birdcherry
+Eugenia padronii	padron's stopper
+Eugenia procera	rockmyrtle
+Eugenia pseudopsidium	Christmas cherry
+Eugenia rhombea	red stopper
+Eugenia serrasuela	serrasuela
+Eugenia sessiliflora	sessileleaf stopper
+Eugenia stahlii	Stahl's stopper
+Eugenia stewardsonii	Stewardson's stopper
+Eugenia underwoodii	Underwood's stopper
+Eugenia uniflora	Surinam cherry
+Eugenia woodburyana	Woodbury's stopper
+Eugenia xerophytica	aridland stopper
+Eulophia alta	wild coco
+Eupatorium ×pinnatifidum	thoroughwort
+Eupatorium triplinerve	yapana
+Euphorbia cotinifolia	Mexican shrubby spurge
+Euphorbia cyathophora	fire on the mountain
+Euphorbia heterophylla	Mexican fireplant
+Euphorbia lactea	mottled spurge
+Euphorbia leucocephala	pascuita
+Euphorbia milii	christplant
+Euphorbia neriifolia	Indian spurgetree
+Euphorbia oerstediana	West Indian spurge
+Euphorbia petiolaris	manchineel berry
+Euphorbia pulcherrima	poinsettia
+Euphorbia tirucalli	Indiantree spurge
+Eurystyles ananassocomos	custard orchid
+Eustachys petraea	pinewoods fingergrass
+Evolvulus alsinoides	slender dwarf morning-glory
+Evolvulus convolvuloides	bindweed dwarf morning-glory
+Evolvulus grisebachii	Grisebach's dwarf morning-glory
+Evolvulus nummularius	agracejo rastrero
+Evolvulus sericeus	silver dwarf morning-glory
+Exostema caribaeum	Caribbean princewood
+Exostema ellipticum	plateado
+Exothea paniculata	butterbough
+Fadyenia hookeri	dotted fern
+Faramea occidentalis	false coffee
+Fatoua villosa	hairy crabweed
+Fevillea cordifolia	antidote caccoon
+Ficus americana	Jamaican cherry fig
+Ficus benjamina	weeping fig
+Ficus carica	edible fig
+Ficus citrifolia	wild banyantree
+Ficus drupacea	brown-woolly fig
+Ficus elastica	Indian rubberplant
+Ficus lutea	Lagos rubbertree
+Ficus lyrata	fiddleleaf fig
+Ficus microcarpa	Chinese banyan
+Ficus pumila	climbingfig
+Ficus religiosa	peepul tree
+Ficus stahlii	jaguey
+Ficus thonningii	fig
+Ficus trigonata	jaguey blanco
+Fimbristylis complanata	Puerto Rico fimbry
+Fimbristylis cymosa	hurricanegrass
+Fimbristylis dichotoma	forked fimbry
+Fimbristylis ferruginea	West Indian fimbry
+Fimbristylis littoralis	fimbry
+Fimbristylis quinquangularis	fiveangle fimbry
+Fimbristylis spadicea	
+Fioria vitifolia	tropical fanleaf
+Flacourtia indica	governor's plum
+Flacourtia inermis	batoko plum
+Flaveria bidentis	coastal plain yellowtops
+Flaveria trinervia	clustered yellowtops
+Fleischmannia microstemon	tropical thoroughwort
+Flemingia strobilifera	wildhops
+Flueggea acidoton	simpleleaf bushweed
+Flueggea virosa	common bushweed
+Foeniculum vulgare	sweet fennel
+Forchhammeria brevipes	shortstalk forchhammeria
+Forchhammeria polyandra	manystamen forchhammeria
+Forestiera eggersiana	inkbush
+Forestiera rhamnifolia	caca ravet
+Forestiera segregata	Florida swampprivet
+Forsteronia corymbosa	leche de perra
+Fortunella margarita	oval kumquat
+Frangula sphaerosperma	West Indian buckthorn
+Fraxinus uhdei	shamel ash
+Fuirena robusta	
+Fuirena umbellata	yefen
+Funtumia elastica	silkrubber
+Furcraea antillana	Antillean furcraea
+Furcraea tuberosa	female karata
+Galactia dubia	West Indian milkpea
+Galactia longifolia	longleaf milkpea
+Galactia striata	Florida hammock milkpea
+Galeandra beyrichii	Beyrich's hooded orchid
+Galinsoga parviflora	gallant soldier
+Galinsoga quadriradiata	shaggy soldier
+Galphimia gracilis	slender goldshower
+Gamochaeta americana	American everlasting
+Gamochaeta argyrinea	silvery everlasting
+Garcinia dulcis	Gourka
+Garcinia hessii	lemon saptree
+Garcinia mangostana	mangosteen
+Garcinia portoricensis	palo de cruz
+Gardenia jasminoides	Cape jasmine
+Gaussia attenuata	llume
+Genipa americana	jagua
+Geophila repens	corrida yerba de guava
+Gesneria citrina	yerba Puerto Rico de cueva
+Gesneria cuneifolia	yerba parrera
+Gesneria pauciflora	yerba maricao de cueva
+Gesneria pedunculosa	arbol de Navidad
+Gesneria reticulata	yerba neto hoja de cueva
+Gesneria viridiflora	grassflower
+Gibasis geniculata	Tahitian bridalveil
+Ginoria rohrii	bastard gregre
+Glandularia bipinnatifida	Dakota mock vervain
+Glandularia pulchella	South American mock vervain
+Gliricidia sepium	quickstick
+Gloxinia perennis	Canterbury bells
+Glycine max	soybean
+Gmelina arborea	gumhar
+Gmelina asiatica	Asian bushbeech
+Gnaphalium polycaulon	many stem cudweed
+Goetzea elegans	mata buey
+Gomidesia lindeniana	grand merisier
+Gomphrena globosa	common globe amaranth
+Gomphrena serrata	arrasa con todo
+Gonocalyx concolor	island brittleleaf
+Gonocalyx portoricensis	Puerto Rico brittleleaf
+Gonolobus stephanotrichus	anglepod
+Gonzalagunia hirsuta	mata de Mariposa
+Gossypium barbadense	Creole cotton
+Gossypium hirsutum	upland cotton
+Gouania lupuloides	whiteroot
+Gouania polygama	liane savon
+Govenia floridana	tropical govenia
+Graffenrieda ottoschulzii	petites graines camasey
+Grammitis aspleniifolia	spleenwort dwarf polypody
+Grammitis cultrata	scaly dwarf polypody
+Grammitis hanekeana	Sierra de Luquillo dwarf polypody
+Grammitis hessii	tape dwarf polypody
+Grammitis liogieri	Liogier's dwarf polypody
+Grammitis mollissima	smooth dwarf polypody
+Grammitis sherringii	Sherring's dwarf polypody
+Grammitis taxifolia	yewleaf dwarf polypody
+Grammitis trichomanoides	Antilles dwarf polypody
+Graptophyllum pictum	caricature-plant
+Grevillea robusta	silkoak
+Guaiacum officinale	lignum-vitae
+Guaiacum sanctum	holywood
+Guapira discolor	beeftree
+Guapira fragrans	black mampoo
+Guapira obtusata	corcho prieto
+Guarea glabra	alligatorwood
+Guarea guidonia	American muskwood
+Guatteria blainii	haya minga
+Guatteria caribaea	haya blanca
+Guazuma ulmifolia	bastardcedar
+Guettarda elliptica	hammock velvetseed
+Guettarda krugii	frogwood
+Guettarda odorata	cucubano de vieques
+Guettarda ovalifolia	cucubano
+Guettarda pungens	roseta
+Guettarda scabra	wild guave
+Guettarda valenzuelana	cucubano de monte
+Gundlachia corymbosa	yambush
+Guzmania berteroniana	Bertero's tufted airplant
+Guzmania lingulata	droophead tufted airplant
+Guzmania monostachia	West Indian tufted airplant
+Gyminda latifolia	West Indian false box
+Gymnanthes lucida	oysterwood
+Gymnopogon foliosus	leafy skeletongrass
+Gymnosiphon niveus	Puerto Rico yellowseed
+Gymnosiphon sphaerocarpus	mountain yellowseed
+Gynerium sagittatum	wildcane
+Habenaria alata	winged bog orchid
+Habenaria amalfitana	Guadeloupe bog orchid
+Habenaria distans	hammock bog orchid
+Habenaria eustachya	woodland bog orchid
+Habenaria monorrhiza	tropical bog orchid
+Habenaria odontopetala	toothpetal bog orchid
+Habenaria repens	waterspider bog orchid
+Hackelochloa granularis	pitscale grass
+Haematoxylum campechianum	bloodwoodtree
+Haenianthus salicifolius	palo de hueso
+Halodule wrightii	shoalweed
+Halophila baillonis	Florida Keys seagrass
+Halophila decipiens	Caribbean seagrass
+Hamelia axillaris	balsamillo
+Hamelia patens	scarletbush
+Hapalorchis lineatus	tropical ladies'-tresses
+Harrisella porrecta	needleroot airplant orchid
+Harrisia portoricensis	Puerto Rico applecactus
+Hebeclinium macrophyllum	largeleaf thoroughwort
+Hebestigma cubense	false locust
+Hecistopteris pumila	moss fern
+Hedychium coronarium	white garland-lily
+Hedychium flavescens	cream garland-lily
+Hedyosmum arborescens	cigarbush
+Helianthus annuus	common sunflower
+Heliconia bihai	macawflower
+Heliconia caribaea	lobsterclaw
+Heliconia psittacorum	parakeetflower
+Heliconia rostrata	false bird of paradise
+Heliconia stricta	Dwarf Jamaican Heliconia
+Heliconia subulata	Guatemalan bird of paradise
+Helicteres jamaicensis	screwtree
+Heliotropium amplexicaule	clasping heliotrope
+Heliotropium angiospermum	scorpion's-tail
+Heliotropium arborescens	garden heliotrope
+Heliotropium curassavicum	salt heliotrope
+Heliotropium fruticosum	Key West heliotrope
+Heliotropium guanicense	cotorrilla
+Heliotropium indicum	Indian heliotrope
+Heliotropium lagoense	Antilles heliotrope
+Heliotropium microphyllum	littleleaf heliotrope
+Heliotropium procumbens	fourspike heliotrope
+Heliotropium ternatum	bushy heliotrope
+Helleriella punctulata	dotted orchid
+Hemidictyum marginatum	halfnetfern
+Hemigraphis alternata	redivy
+Hemigraphis reptans	redflame
+Hemionitis palmata	starfern
+Henriettea fascicularis	camasey peludo
+Henriettea macfadyenii	MacFadyen's camasey
+Henriettea membranifolia	thinleaf camasey
+Henriettea squamulosum	jusillo
+Herissantia crispa	bladdermallow
+Hernandia sonora	mago
+Hesperocyparis arizonica	Arizona cypress
+Hesperocyparis macrocarpa	Monterey cypress
+Heteranthera limosa	blue mudplantain
+Heteranthera reniformis	kidneyleaf mudplantain
+Heteropogon contortus	tanglehead
+Heteropterys laurifolia	dragon withe
+Heteropterys purpurea	bull withe
+Heteropterys wydleriana	ahorca caballo
+Hibiscus acetosella	African rosemallow
+Hibiscus bifurcatus	fork-bracted rosemallow
+Hibiscus cannabinus	brown Indianhemp
+Hibiscus clypeatus	Congo mahoe
+Hibiscus elatus	mahoe
+Hibiscus furcellatus	lindenleaf rosemallow
+Hibiscus pernambucensis	seaside mahoe
+Hibiscus phoeniceus	Brazilian rosemallow
+Hibiscus rosa-sinensis	shoeblackplant
+Hibiscus sabdariffa	roselle
+Hibiscus schizopetalus	fringed rosemallow
+Hibiscus trilobus	threelobe rosemallow
+Hillia parasitica	tibey trepador
+Hippeastrum puniceum	Barbados lily
+Hippobroma longiflora	madamfate
+Hippocratea volubilis	medicine vine
+Hippomane mancinella	manchineel
+Hirtella rugosa	teta de burra cinarron
+Hirtella triandra	pigeonberry
+Histiopteris incisa	batwing fern
+Hohenbergia antillana	Antilles lacebark
+Hohenbergia attenuata	longtip lacebark
+Hohenbergia portoricensis	Puerto Rico lacebark
+Holcus lanatus	common velvetgrass
+Holmskioldia sanguinea	Chinese hatplant
+Homalium racemosum	white cogwood
+Homalocladium platycladum	ribbonbush
+Homolepis glutinosa	sticky panicgrass
+Hoya carnosa	porcelainflower
+Huperzia acerosa	Puerto Rico clubmoss
+Huperzia aqualupiana	treetrunk clubmoss
+Huperzia dichotoma	hanging clubmoss
+Huperzia funiformis	royal clubmoss
+Huperzia linifolia	needleleaf clubmoss
+Huperzia lucidula	shining clubmoss
+Huperzia reflexa	Antilles clubmoss
+Huperzia sintenisii	Sintenis' clubmoss
+Huperzia taxifolia	yewleaf clubmoss
+Huperzia tenuicaulis	narrowleaf clubmoss
+Huperzia wilsonii	Wilson's clubmoss
+Hura crepitans	sandbox tree
+Hybanthus linearifolius	chancleta
+Hydrocleys nymphoides	waterpoppy
+Hydrocotyle bonariensis	largeleaf pennywort
+Hydrocotyle hirsuta	yerba de clavo
+Hydrocotyle prolifera	whorled marshpennywort
+Hydrocotyle pusilla	tropical marshpennywort
+Hydrocotyle umbellata	manyflower marshpennywort
+Hyeronima clusioides	cedro macho
+Hygrophila costata	yerba de hicotea
+Hylocereus trigonus	strawberry-pear
+Hylocereus undatus	nightblooming cactus
+Hymenachne amplexicaulis	West Indian marsh grass
+Hymenaea courbaril	stinkingtoe
+Hymenocallis caribaea	Caribbean spiderlily
+Hymenocallis expansa	West Indian spiderlily
+Hymenocallis latifolia	perfumed spiderlily
+Hymenophyllum asplenioides	Caribbean filmy fern
+Hymenophyllum axillare	axillary filmy fern
+Hymenophyllum brevifrons	Antilles filmy fern
+Hymenophyllum decurrens	Sierra de Luquillo filmy fern
+Hymenophyllum fragile	fragile filmy fern
+Hymenophyllum fucoides	graceful filmy fern
+Hymenophyllum hirsutum	hairy filmy fern
+Hymenophyllum lanatum	woolly filmy fern
+Hymenophyllum lineare	longtom filmy fern
+Hymenophyllum macrothecum	mountain filmy fern
+Hymenophyllum microcarpum	creeping filmy fern
+Hymenophyllum paucicarpum	Jamaican filmy fern
+Hymenophyllum polyanthos	smooth filmy fern
+Hymenophyllum sieberi	Sieber's filmy fern
+Hymenophyllum tegularis	elegant filmy fern
+Hymenophyllum undulatum	wavy filmy fern
+Hyparrhenia rufa	jaraguagrass
+Hypelate trifoliata	inkwood
+Hyperbaena domingensis	forest snakevine
+Hyperbaena laurifolia	limestone snakevine
+Hypericum diosmoides	Puerto Rico St. Johnswort
+Hypericum hypericoides	St. Andrew's cross
+Hypoderris brownii	hairvein fern
+Hypoestes phyllostachya	polkadot-plant
+Hypogynium virgatum	West Indian bluestem
+Hypolepis nigrescens	black beadfern
+Hypolepis repens	bramblefern
+Hypolepis tenerrima	royal beadfern
+Hypolepis urbanii	ponce beadfern
+Hypoxis decumbens	coquí
+Hypoxis wrightii	Wright's star-grass
+Hyptis americana	American bushmint
+Hyptis atrorubens	marubio oscuro
+Hyptis capitata	false ironwort
+Hyptis escobilla	bayamon
+Hyptis lantanifolia	island bushmint
+Hyptis pectinata	comb bushmint
+Hyptis spicigera	marubio
+Hyptis suaveolens	pignut
+Hyptis verticillata	John Charles
+Ichnanthus nemorosus	creeping bedgrass
+Ichnanthus pallens	caruzo
+Ichnanthus tenuis	forest bedgrass
+Ilex cassine	dahoon
+Ilex cookii	te
+Ilex guianensis	maconcona
+Ilex hypaneura	Luquillo Mountain holly
+Ilex krugiana	tawnyberry holly
+Ilex macfadyenii	Caribbean holly
+Ilex nitida	Puerto Rico holly
+Ilex obcordata	cuero de sapo
+Ilex sideroxyloides	gongolin
+Ilex urbaniana	Urban's holly
+Impatiens balsamina	spotted snapweed
+Impatiens walleriana	buzzy lizzy
+Imperata brasiliensis	Brazilian satintail
+Imperata contracta	guayanilla
+Indigofera guatemalensis	Guatemalan indigo
+Indigofera hirsuta	hairy indigo
+Indigofera suffruticosa	anil de pasto
+Indigofera tinctoria	true indigo
+Inga ingoides	icecream bean
+Inga laurina	sacky sac bean
+Inga nobilis	guama venezolano
+Inga vera	river koko
+Ionopsis satyrioides	fleshyleaf violet orchid
+Ionopsis utricularioides	delicate violet orchid
+Ipomoea alba	tropical white morning-glory
+Ipomoea aquatica	swamp morning-glory
+Ipomoea batatas	sweetpotato
+Ipomoea calantha	moonvine
+Ipomoea carnea	gloria de la manana
+Ipomoea hederifolia	scarletcreeper
+Ipomoea horsfalliae	Lady Doorly's morning-glory
+Ipomoea imperati	beach morning-glory
+Ipomoea indica	oceanblue morning-glory
+Ipomoea krugii	Krug's white morning-glory
+Ipomoea meyeri	Meyer's morning-glory
+Ipomoea microdactyla	calcareous morning-glory
+Ipomoea nil	whiteedge morning-glory
+Ipomoea ochracea	fence morning-glory
+Ipomoea pes-caprae	bayhops
+Ipomoea purpurea	tall morning-glory
+Ipomoea quamoclit	cypressvine
+Ipomoea repanda	bejuco colorado
+Ipomoea setifera	bejuco de puerco
+Ipomoea steudelii	Steudel's morning-glory
+Ipomoea tenuissima	rockland morning-glory
+Ipomoea tiliacea	Bejuco de puerco
+Ipomoea tricolor	grannyvine
+Ipomoea triloba	littlebell
+Ipomoea violacea	beach moonflower
+Ipomoea wrightii	Wright's morning-glory
+Iresine angustifolia	white snowplant
+Iresine argentata	tropical bloodleaf
+Iresine diffusa	Juba's bush
+Iresine flavescens	yellow bloodleaf
+Iresine herbstii	Herbst's bloodleaf
+Iresine lindenii	Linden's bloodleaf
+Isachne angustifolia	yerba de alambre
+Isochilus linearis	narrowleaf equallip orchid
+Ixora acuminata	bola de nieve
+Ixora coccinea	scarlet jungleflame
+Ixora ferrea	palo de hierro
+Ixora thwaitesii	white jungleflame
+Jacaranda mimosifolia	black poui
+Jacquemontia cayensis	sandyplain clustervine
+Jacquemontia cumanensis	thicket clustervine
+Jacquemontia havanensis	Havana clustervine
+Jacquemontia ovalifolia	oval-leaf clustervine
+Jacquemontia pentanthos	skyblue clustervine
+Jacquemontia solanifolia	cambustera de costa
+Jacquemontia tamnifolia	hairy clustervine
+Jacquemontia verticillata	whorled clustervine
+Jacquinia armillaris	braceletwood
+Jacquinia berteroi	bois bande
+Jacquinia pauciflora	thicketwood
+Jacquinia umbellata	chirriador
+Jacquiniella globosa	redblotch tufted orchid
+Jacquiniella teretifolia	moss tufted orchid
+Jaltomata antillana	Antilles false holly
+Jasminum fluminense	jazmin de trapo
+Jasminum multiflorum	star jasmine
+Jasminum officinale	poet's jasmine
+Jasminum sambac	Arabian jasmine
+Jatropha curcas	Barbados nut
+Jatropha gossypiifolia	bellyache bush
+Jatropha hernandiifolia	wild oilnut
+Jatropha integerrima	peregrina
+Jatropha multifida	coralbush
+Jatropha podagrica	goutystalk nettlespurge
+Juglans jamaicensis	West Indian walnut
+Juncus dichotomus	forked rush
+Juncus effusus	common rush
+Juncus tenuis	poverty rush
+Justicia borinquensis	Monte Cerrote water-willow
+Justicia comata	marsh water-willow
+Justicia culebritae	Culebrita Island water-willow
+Justicia martinsoniana	Puerto Rico water-willow
+Justicia mirabiloides	West Indian water-willow
+Justicia pectoralis	freshcut
+Justicia sphaerosperma	tropical waterwillow
+Kaempferia rotunda	kaempferia
+Kalanchoe blossfeldiana	Madagascar widow's-thrill
+Kalanchoe daigremontiana	devil's backbone
+Kalanchoe delagoensis	chandelier plant
+Kalanchoe fedtschenkoi	lavender scallops
+Kalanchoe integra	neverdie
+Kalanchoe pinnata	cathedral bells
+Kallstroemia maxima	big caltrop
+Kallstroemia pubescens	Caribbean caltrop
+Khaya anthotheca	Nyasaland mahogany
+Khaya senegalensis	Senegal mahogany
+Kigelia africana	sausage tree
+Kleinhovia hospita	guest tree
+Koanophyllon dolicholepis	oreganillo
+Koanophyllon droserolepis	Monte Torrecilla thoroughwort
+Koanophyllon polyodon	islandthicket thoroughwort
+Koellensteinia graminea	grassleaf orchid
+Krameria ixine	abrojo colorado
+Krugiodendron ferreum	leadwood
+Kyllinga brevifolia	shortleaf spikesedge
+Kyllinga nemoralis	whitehead spikesedge
+Kyllinga odorata	fragrant spikesedge
+Kyllinga pumila	low spikesedge
+Kyllinga tibialis	Peruvian spikesedge
+Kyllinga vaginata	Carribean island spikesedge
+Lablab purpureus	hyacinthbean
+Lactuca floridana	woodland lettuce
+Lactuca sativa	garden lettuce
+Laetia procera	cuero de rana
+Lagascea mollis	silkleaf
+Lagenaria siceraria	bottle gourd
+Lagenocarpus guianensis	burr sedge
+Lagerstroemia indica	crapemyrtle
+Lagerstroemia speciosa	pride of India
+Laguncularia racemosa	white mangrove
+Landoltia punctata	dotted duckmeat
+Lantana camara	lantana
+Lantana exarata	Caribbean shrubverbena
+Lantana involucrata	buttonsage
+Lantana montevidensis	trailing shrubverbena
+Lantana reticulata	netted shrubverbena
+Lantana strigosa	rough shrubverbena
+Lantana trifolia	threeleaf shrubverbena
+Lantana urticifolia	nettleleaf shrubverbena
+Laplacea portoricensis	nino de cota
+Laportea aestuans	West Indian woodnettle
+Lasiacis divaricata	smallcane
+Lasiacis grisebachii	Grisebach's tribisee
+Lasiacis ligulata	thicket tribisee
+Lasiacis sloanei	Sloane's tribisee
+Lasiacis sorghoidea	woodland tribisee
+Lasianthus lanceolatus	mata de peo
+Lastreopsis effusa	false shieldfern
+Launaea intybacea	achicoria azul
+Lawsonia inermis	henna
+Leandra krugiana	Krug's roughleaf
+Leandra krugii	Mt. Cerrote angleflower
+Leersia hexandra	southern cutgrass
+Leersia monandra	bunch cutgrass
+Lellingeria hartii	Hart's lellingeria
+Lellingeria myosuroides	mouseear lellingeria
+Lellingeria suspensa	Jamaican lellingeria
+Lemna aequinoctialis	lesser duckweed
+Lemna minuta	least duckweed
+Lemna perpusilla	minute duckweed
+Lemna valdiviana	valdivia duckweed
+Leochilus puertoricensis	Puerto Rico smoothlip orchid
+Leonotis nepetifolia	Christmas candlestick
+Leonurus sibiricus	honeyweed
+Lepanthes caritensis	Carite babyboot orchid
+Lepanthes dodiana	island babyboot orchid
+Lepanthes eltoroensis	Luquillo Mountain babyboot orchid
+Lepanthes rubripetala	forest babyboot orchid
+Lepanthes rupestris	rock babyboot orchid
+Lepanthes sanguinea	Jamaican babyboot orchid
+Lepanthes selenitepala	mountain babyboot orchid
+Lepanthes veleziana	Puerto Rico babyboot orchid
+Lepanthes woodburyana	Woodbury's babyboot orchid
+Lepanthopsis melanantha	tiny orchid
+Lepianthes peltata	monkey's hand
+Lepidium pinnatisectum	tansy pepperweed
+Lepidium virginicum	Virginia pepperweed
+Leptocereus grantianus	sebucan
+Leptocereus quadricostatus	pitahaya
+Leptochloa fusca	Malabar sprangletop
+Leptochloa nealleyi	Nealley's sprangletop
+Leptochloa panicea	mucronate sprangletop
+Leptochloa panicoides	Amazon sprangletop
+Leptochloa scabra	rough sprangletop
+Leptochloa virgata	Judd's grass
+Leptochloopsis virgata	limestone grass
+Leptocoryphium lanatum	lanilla
+Leucaena leucocephala	white leadtree
+Leucanthemum maximum	max chrysanthemum
+Leucothrinax morrisii	Key thatch palm
+Licania rigida	oiticica
+Licaria brittoniana	Maria laurel
+Licaria parvifolia	Puerto Rico cinnamon
+Licaria triandra	pepperleaf sweetwood
+Ligustrum japonicum	Japanese privet
+Ligustrum ovalifolium	California privet
+Ligustrum sinense	Chinese privet
+Limnobium laevigatum	West Indian spongeplant
+Lindernia crustacea	Malaysian false pimpernel
+Lindernia diffusa	spreading false pimpernel
+Lindernia dubia	yellowseed false pimpernel
+Lindsaea lancea	woodland necklace fern
+Lindsaea portoricensis	Puerto Rico necklace fern
+Lindsaea quadrangularis	mountain necklace fern
+Lindsaea stricta	smallstalk necklace fern
+Liparis elata	pantropical widelip orchid
+Liparis saundersiana	Saunders' widelip orchid
+Liparis vexillifera	tropical widelip orchid
+Lipocarpha micrantha	smallflower halfchaff sedge
+Lippia alba	bushy lippia
+Lippia micromera	Spanish thyme
+Lisianthius laxiflorus	campanilla amarilla
+Lithachne pauciflora	diente de perro
+Lithophila muscoides	talustuft
+Lobelia cliffortiana	cardenala azul
+Lobelia portoricensis	tibey tupa
+Lobelia robusta	robust lobelia
+Lobelia rotundifolia	roundleaf lobelia
+Lobelia vivaldii	Vivald's lobelia
+Lolium perenne	perennial ryegrass
+Lomagramma guianensis	Guiana fern
+Lomariopsis amydrophlebia	royal fringedfern
+Lomariopsis kunzeana	hollyleaf fringedfern
+Lomariopsis sorbifolia	acacia fringedfern
+Lonchitis hirsuta	tomato fern
+Lonchocarpus domingensis	geno geno
+Lonchocarpus glaucifolius	geno
+Lonchocarpus heptaphyllus	broadleaf lancepod
+Lonicera japonica	Japanese honeysuckle
+Lophosoria quadripinnata	diamondleaf fern
+Lophospermum erubescens	Mexican twist
+Lucya tetrandra	false bluet
+Ludwigia decurrens	wingleaf primrose-willow
+Ludwigia erecta	yerba de jicotea
+Ludwigia leptocarpa	anglestem primrose-willow
+Ludwigia octovalvis	Mexican primrose-willow
+Ludwigia palustris	marsh seedbox
+Ludwigia peploides	floating primrose-willow
+Ludwigia peruviana	Peruvian primrose-willow
+Luehea speciosa	luehea
+Luffa acutangula	sinkwa towelsponge
+Luffa aegyptiaca	sponge gourd
+Lunania ekmanii	mendrina
+Lycaste barringtoniae	bee orchid
+Lycianthes virgata	berengena de paloma
+Lycium tweedianum	tropical desert-thorn
+Lycopodiella caroliniana	slender clubmoss
+Lycopodiella cernua	staghorn clubmoss
+Lycopodium clavatum	running clubmoss
+Lygodium japonicum	Japanese climbing fern
+Lyonia rubiginosa	St. Thomas staggerbush
+Lyonia truncata	Dominican staggerbush
+Macadamia integrifolia	macadamia nut
+Macfadyena unguis-cati	catclawvine
+Machaerina restioides	forest twigrush
+Machaerium lunatum	palo de hoz
+Machaonia portoricensis	Puerto Rico alfilerillo
+Maclura tinctoria	fustictree
+Macroptilium atropurpureum	purple bushbean
+Macroptilium lathyroides	wild bushbean
+Macrothelypteris torresiana	swordfern
+Maesopsis eminii	umbrella-tree
+Magnolia grandiflora	southern magnolia
+Magnolia portoricensis	Puerto Rico magnolia
+Magnolia splendens	laurel magnolia
+Malachra alceifolia	yellow leafbract
+Malachra capitata	malva de caballo
+Malachra fasciata	roadside leafbract
+Malachra radiata	tropical leafbract
+Malaxis major	royal adder's-mouth orchid
+Malaxis massonii	Masson's adder's-mouth orchid
+Malaxis spicata	Florida adder's-mouth orchid
+Malpighia coccigera	Singapore holly
+Malpighia emarginata	Barbados cherry
+Malpighia fucata	palo bronco
+Malpighia infestissima	cowhage cherry
+Malpighia linearis	bastard cherry
+Malpighia setosa	bristly stingingbush
+Malpighia woodburyana	Woodbury's stingingbush
+Malvastrum americanum	Indian Valley false mallow
+Malvastrum corchorifolium	false mallow
+Malvastrum coromandelianum	threelobe false mallow
+Malvaviscus arboreus	wax mallow
+Malvaviscus penduliflorus	mazapan
+Mammea americana	mammee apple
+Mammillaria nivosa	woolly nipple cactus
+Mangifera indica	mango
+Manihot esculenta	cassava
+Manilkara bidentata	bulletwood
+Manilkara pleeana	zapote de costa
+Manilkara valenzuela	nisperillo
+Manilkara zapota	sapodilla
+Mansoa alliacea	garlicvine
+Mappia racemosa	palo de cana
+Maranta arundinacea	arrowroot
+Marcgravia rectiflora	bejuco de lira
+Marcgravia sintenisii	shingleplant
+Margaritaria nobilis	bastard hogberry
+Marlierea sintenisii	beruquillo
+Marsdenia elliptica	jungle netvine
+Marsdenia woodburyana	Woodbury's netvine
+Marsilea ancylopoda	tropical waterclover
+Marsilea polycarpa	Guayanan waterclover
+Marsypianthes chamaedrys	ortela
+Martynia annua	una de gato
+Matayba domingensis	negra lora
+Matelea borinquensis	San Lorenzo milkvine
+Matelea maritima	beach milkvine
+Matelea sintenisii	Sintenis' milkvine
+Matelea variifolia	variableleaf milkvine
+Maxillaria acutifolia	rufous tiger orchid
+Maxillaria coccinea	flame orchid
+Maxillaria parviflora	purple tiger orchid
+Maytenus cymosa	Caribbean mayten
+Maytenus elongata	Puerto Rico mayten
+Maytenus laevigata	white cinnamon
+Maytenus ponceana	ponce mayten
+Mecardonia procumbens	baby jump-up
+Mecranium latifolium	camasey almendre
+Medicago sativa	alfalfa
+Megalastrum subincisa	jagleaf junglefern
+Melaleuca quinquenervia	punktree
+Melampodium divaricatum	boton de oro
+Melanthera aspera	yerba de cabra
+Melanthera nivea	snow squarestem
+Melia azedarach	Chinaberrytree
+Melicoccus bijugatus	Spanish lime
+Melilotus officinalis	sweetclover
+Melinis minutiflora	molassesgrass
+Melinis repens	rose Natal grass
+Meliosma herbertii	aguacatillo
+Meliosma obtusifolia	cacaillo
+Melocactus intortus	Turk's cap
+Melochia nodiflora	bretonica prieta
+Melochia pyramidata	pyramidflower
+Melochia spicata	bretonica peluda
+Melochia tomentosa	teabush
+Melothria pendula	Guadeloupe cucumber
+Melpomense anfractuosa	zigzag dwarf polypody
+Melpomense flabelliformis	fanleaf dwarf polypody
+Mentha aquatica	water mint
+Mentha ×piperita	peppermint
+Mentha ×villosa	mint
+Mentzelia aspera	tropical blazingstar
+Merremia aegyptia	hairy woodrose
+Merremia cissoides	roadside woodrose
+Merremia dissecta	noyau vine
+Merremia quinquefolia	rock rosemary
+Merremia tuberosa	Spanish arborvine
+Merremia umbellata	hogvine
+Mesadenus lucayanus	Florida Keys ladies'-tresses
+Metopium toxiferum	poisonwood
+Miconia affinis	saquiyac
+Miconia foveolata	Puerto Rico johnnyberry
+Miconia impetiolaris	camasey de costilla
+Miconia laevigata	smooth johnnyberry
+Miconia lanata	hairy johnnyberry
+Miconia mirabilis	camasey cuatrocanales
+Miconia pachyphylla	camasey racimoso
+Miconia prasina	granadillo bobo
+Miconia punctata	auquey
+Miconia pycnoneura	ridge johnnyberry
+Miconia racemosa	camasey felpa
+Miconia rubiginosa	peralejo
+Miconia serrulata	jau jau
+Miconia sintenisii	mountain johnnyberry
+Miconia splendens	white-flower johnnyberry
+Miconia subcorymbosa	forest johnnyberry
+Miconia tetrandra	rajador
+Miconia tetrastoma	graceful johnnyberry
+Miconia theaezans	stalked-flower johnnyberry
+Miconia thomasiana	camasey tomaso
+Micranthemum umbrosum	shade mudflower
+Microgramma heterophylla	clinging snakefern
+Microgramma lycopodioides	clubmoss snakefern
+Microgramma piloselloides	hairy snakefern
+Micropholis garciniifolia	caimitillo verde
+Micropholis guyanensis	wild balata
+Microstachys corniculata	hato tejas
+Microstegium vimineum	Nepalese browntop
+Microtea debilis	weak jumby pepper
+Microtea portoricensis	Puerto Rico jumby pepper
+Mikania congesta	guaco
+Mikania cordifolia	Florida Keys hempvine
+Mikania fragilis	fragile hempvine
+Mikania micrantha	mile-a-minute
+Mikania odoratissima	fragrant hempvine
+Mikania pachyphylla	Luquillo Mountain hempvine
+Mikania porosa	Puerto Rico hempvine
+Mikania stevensiana	Maricao River hempvine
+Millettia pinnata	pongame oiltree
+Mimosa arenosa	elegant mimosa
+Mimosa casta	graceful mimosa
+Mimosa ceratonia	black ambret
+Mimosa diplotricha	giant false sensitive plant
+Mimosa pellita	lollipop mimosa
+Mimosa pudica	shameplant
+Mimosa quadrivalvis	fourvalve mimosa
+Mirabilis jalapa	marvel of Peru
+Mitracarpus hirtus	tropical girdlepod
+Mitracarpus maxwelliae	Maxwell's girdlepod
+Mitracarpus polycladus	cana gorda girdlepod
+Mitracarpus portoricensis	Puerto Rico girdlepod
+Mitreola petiolata	lax hornpod
+Mollugo nudicaulis	nakedstem carpetweed
+Mollugo verticillata	green carpetweed
+Momordica balsamina	southern balsampear
+Momordica charantia	balsampear
+Monstera adansonii	Adanson's monstera
+Monstera deliciosa	tarovine
+Morella cerifera	wax myrtle
+Morella holdridgeana	Palo de cera
+Morinda citrifolia	Indian mulberry
+Moringa oleifera	horseradishtree
+Morisonia americana	ratapple
+Morus nigra	black mulberry
+Mouriri domingensis	murta
+Mouriri helleri	mameyuelo
+Mucuna pruriens	velvet bean
+Mucuna sloanei	horseeye bean
+Mucuna urens	oxeye bean
+Muhlenbergia capillaris	hairawn muhly
+Muntingia calabura	strawberrytree
+Murdannia nudiflora	nakedstem dewflower
+Murraya exotica	Chinese box
+Musa ×paradisiaca	French plantain
+Musa velutina	hairy banana
+Myrcia citrifolia	red rodwood
+Myrcia deflexa	cieneguillo
+Myrcia fallax	curame
+Myrcia leptoclada	guayabacon
+Myrcia margarettiae	Margarett's myrcia
+Myrcia maricaensis	maricao rodwood
+Myrcianthes fragrans	twinberry
+Myrcia paganii	ausu
+Myrciaria borinquena	false tamarisk
+Myrciaria floribunda	guavaberry
+Myrciaria myrtifolia	ridgetop guavaberry
+Myrcia splendens	punchberry
+Myristica fragrans	nutmeg
+Myrosma cannifolia	cannaleaf myrosma
+Myrospermum frutescens	cercipo
+Myrsine coriacea	leathery colicwood
+Myrsine cubana	Guianese colicwood
+Najas guadalupensis	southern waternymph
+Najas marina	spiny naiad
+Nama jamaicense	Jamaicanweed
+Nashia inaguensis	el tuque
+Nasturtium officinale	watercress
+Nectandra coriacea	lancewood
+Nectandra hihua	shinglewood
+Nectandra krugii	Krug's sweetwood
+Nectandra membranacea	sweetwood
+Nectandra patens	capberry
+Nectandra turbacensis	laurel amarillo
+Neea buxifolia	saltwood
+Nekemias arborea	peppervine
+Nelsonia canescens	blue pussyleaf
+Neolamarckia cadamba	kadam
+Neolaugeria resinosa	aquilon
+Neomarica northiana	North's false flag
+Neorudolphia volubilis	bejuco de alambre
+Nephrolepis biserrata	giant swordfern
+Nephrolepis cordifolia	narrow swordfern
+Nephrolepis exaltata	Boston swordfern
+Nephrolepis falcata	fishtail swordfern
+Nephrolepis laurifolia	laurel-leaf swordfern
+Nephrolepis multiflora	Asian swordfern
+Nephrolepis rivularis	streamside swordfern
+Nephrolepis undulata	annual swordfern
+Nepsera aquatica	altea
+Neptunia plena	water dead and awake
+Neptunia prostrata	garden puff
+Nerium oleander	oleander
+Neurodium lanceolatum	ribbon fern
+Neurolaena lobata	sepi
+Nicotiana tabacum	cultivated tobacco
+Nidema ottonis	fairy orchid
+Niphidium crassifolium	graceful fern
+Notholaena trichomanoides	rockslope cloak fern
+Nymphaea amazonum	Amazon waterlily
+Nymphaea ampla	dotleaf waterlily
+Nymphaea conardii	roundleaf waterlily
+Nymphaea jamesoniana	James' waterlily
+Nymphaea odorata	American white waterlily
+Nymphaea rudgeana	Rudge's waterlily
+Nymphoides indica	water snowflake
+Ochna jabotapita	bird's-eye bush
+Ochna mossambicensis	African bird's-eye bush
+Ochroma pyramidale	West Indian balsa
+Ocimum basilicum	sweet basil
+Ocimum campechianum	least basil
+Ocimum tenuiflorum	holy basil
+Ocotea floribunda	laurel espada
+Ocotea foeniculacea	black sweetwood
+Ocotea leucoxylon	loblolly sweetwood
+Ocotea moschata	nemoca
+Ocotea nemodaphne	laurel sassafras
+Ocotea portoricensis	laurel de paloma
+Ocotea spathulata	nemoca cimarrona
+Ocotea wrightii	Wright's laurel canelon
+Odontonema cuspidatum	mottled toothedthread
+Odontonema tubiforme	firespike
+Odontosoria aculeata	thicket creepingfern
+Odontosoria clavata	clubbed creepingfern
+Odontosoria scandens	border creepingfern
+Oeceoclades maculata	monk orchid
+Oldenlandia corymbosa	flat-top mille graines
+Oldenlandia lancifolia	calycose mille graines
+Oldenlandia uniflora	clustered mille graines
+Oldenlandiopsis callitrichoides	creeping-bluet
+Oleandra articulata	oleander fern
+Olfersia cervina	woodland islandfern
+Olyra latifolia	carrycillo
+Oncidium altissimum	Wydler's dancing-lady orchid
+Oncidium meirax	winged-lady orchid
+Operculina turpethum	St. Thomas lidpod
+Ophioglossum reticulatum	netted adderstongue
+Oplismenus hirtellus	basketgrass
+Oplonia microphylla	thicketwort
+Oplonia spinosa	pricklybush
+Opuntia borinquensis	olaga
+Opuntia cochenillifera	cochineal nopal cactus
+Opuntia ×cubensis	bullsuckers
+Opuntia dillenii	erect pricklypear
+Opuntia ficus-indica	Barbary fig
+Opuntia repens	roving pricklypear
+Opuntia triacantha	Spanish lady
+Ormosia krugii	peronia
+Oryza latifolia	broadleaf rice
+Oryza sativa	rice
+Osmunda cinnamomea	cinnamon fern
+Ottoschulzia rhodoxylon	pincho palo de rosa
+Ouratea ilicifolia	chicharron amarillo
+Ouratea littoralis	abey amarillo
+Ouratea striata	guanabanilla
+Oxalis barrelieri	Barrelier's woodsorrel
+Oxalis corniculata	creeping woodsorrel
+Oxalis debilis	pink woodsorrel
+Oxalis eggersii	Eggers' woodsorrel
+Oxalis intermedia	West Indian woodsorrel
+Oxalis latifolia	broadleaf woodsorrel
+Oxalis rugeliana	coamo
+Oxalis violacea	violet woodsorrel
+Oxandra lanceolata	blacklancewood
+Oxandra laurifolia	haya
+Oxypetalum cordifolium	whiteheart
+Pachira aquatica	Guiana-chestnut
+Pachira insignis	wild chestnut
+Pachyrhizus erosus	yam bean
+Pachyrhizus tuberosus	ajipo
+Pachystachys spicata	cardinal's-guard
+Palicourea alpina	tafetan
+Palicourea crocea	red cappel
+Palicourea croceoides	yellow-cedar
+Palicourea guianensis	showy cappel
+Pandanus baptistii	New Britain Island screwpine
+Pandanus tectorius	Tahitian screwpine
+Pandanus utilis	common screwpine
+Pandanus veitchii	Veitch's screwpine
+Panicum dichotomiflorum	fall panicgrass
+Panicum diffusum	West Indian panicgrass
+Panicum elephantipes	elephant panicgrass
+Panicum ghiesbreghtii	Ghiesbreght's panicgrass
+Panicum laxum	lax panicgrass
+Panicum miliaceum	proso millet
+Panicum parvifolium	smallflower panicgrass
+Panicum rigidulum	redtop panicgrass
+Panicum schiffneri	Schiffner's panicgrass
+Panicum stenodes	savannah panicgrass
+Panicum stevensianum	Stevens' panicgrass
+Panicum tenerum	bluejoint panicgrass
+Panicum trichanthum	thicket panicgrass
+Panicum trichoides	tropical panicgrass
+Panicum venezuelae	Venezuelan panicgrass
+Pappophorum pappiferum	limestone pappusgrass
+Parathesis crenulata	scratchthroat
+Parkinsonia aculeata	Jerusalem thorn
+Parmentiera aculeata	cuachilote
+Parmentiera cereifera	candle tree
+Parthenium hysterophorus	Santa Maria feverfew
+Paspalidium chapmanii	Chapman's bristlegrass
+Paspalidium geminatum	Egyptian panicgrass
+Paspalum arundinaceum	thick ditch crowngrass
+Paspalum bakeri	Baker's crowngrass
+Paspalum blodgettii	Blodgett's crowngrass
+Paspalum boscianum	bull crowngrass
+Paspalum caespitosum	blue crowngrass
+Paspalum clavuliferum	hillside crowngrass
+Paspalum conjugatum	hilograss
+Paspalum convexum	Latin American crowngrass
+Paspalum decumbens	decumbent crowngrass
+Paspalum densum	dense crowngrass
+Paspalum dilatatum	dallisgrass
+Paspalum dispar	mosquito crowngrass
+Paspalum distichum	knotgrass
+Paspalum fasciculatum	Mexican crowngrass
+Paspalum fimbriatum	Panama crowngrass
+Paspalum laxum	coconut paspalum
+Paspalum macrophyllum	bigleaf paspalum
+Paspalum maritimum	coastal sand paspalum
+Paspalum millegrana	paja brava
+Paspalum minus	matted paspalum
+Paspalum molle	soft paspalum
+Paspalum notatum	bahiagrass
+Paspalum orbiculatum	circular paspalum
+Paspalum paniculatum	arrocillo
+Paspalum parviflorum	smallseed paspalum
+Paspalum paucispicatum	large knotgrass
+Paspalum pleostachyum	tropical paspalum
+Paspalum plicatulum	brownseed paspalum
+Paspalum pulchellum	grand paspalum
+Paspalum rupestre	rock paspalum
+Paspalum secans	slender ditch paspalum
+Paspalum setaceum	thin paspalum
+Paspalum urvillei	Vasey's grass
+Paspalum vaginatum	seashore paspalum
+Paspalum virgatum	talquezal
+Passiflora anadenia	tropical passionflower
+Passiflora berteriana	pasionaria de cercas
+Passiflora bilobata	twolobe passionflower
+Passiflora ciliata	fringed passionflower
+Passiflora edulis	purple granadilla
+Passiflora foetida	fetid passionflower
+Passiflora laurifolia	golden bellapple
+Passiflora maliformis	conch apple
+Passiflora multiflora	whiteflower passionflower
+Passiflora murucuja	Virgin Island passionflower
+Passiflora pallida	corkystem passionflower
+Passiflora quadrangularis	giant granadilla
+Passiflora rubra	dutchman's laudanum
+Passiflora serratodigitata	tagua tagua
+Passiflora sexflora	goatsfoot
+Passiflora suberosa	corkystem passionflower
+Passiflora tuberosa	tuberous passionflower
+Passiflora tulae	mountain love in the mist
+Paullinia pinnata	bread and cheese
+Pavonia corymbosa	tight-flower swampmallow
+Pavonia fruticosa	anamu
+Pavonia paludicola	swampbush
+Pavonia paniculata	cadillo anaranjado
+Pavonia spinifex	gingerbush
+Pecluma camptophyllaria	Colombian rockcap fern
+Pecluma consimilis	montane rockcap fern
+Pecluma dispersa	widespread rockcap fern
+Pecluma pectinata	combleaf rockcap fern
+Pecluma plumula	plumed rockcap fern
+Pecluma ptilodon	palmleaf rockcap fern
+Pectis carthusianorum	Caribbean chinchweed
+Pectis ciliaris	donkeyweed
+Pectis elongata	tropical chinchweed
+Pectis humifusa	yerba de San Juan
+Pectis linearis	West Indian chinchweed
+Pectis linifolia	romero macho
+Pectis prostrata	spreading chinchweed
+Pectis tenuicaulis	island chinchweed
+Pedilanthus tithymaloides	redbird flower
+Pelargonium graveolens	sweet scented geranium
+Pelargonium odoratissimum	apple geranium
+Pelargonium peltatum	ivyleaf geranium
+Pelargonium zonale	horseshoe geranium
+Pelexia adnata	hachuela
+Peltophorum pterocarpum	peltophorum
+Pennisetum ciliare	buffelgrass
+Pennisetum clandestinum	kikuyugrass
+Pennisetum glaucum	pearl millet
+Pennisetum polystachion	mission grass
+Pennisetum purpureum	elephant grass
+Pentalinon luteum	hammock viper's-tail
+Pentapetes phoenicea	flor impia
+Pentas lanceolata	Egyptian starcluster
+Peperomia alata	winged peperomia
+Peperomia cogniauxii	yerba de guava falso
+Peperomia distachya	montane peperomia
+Peperomia emarginella	Guadeloupe peperomia
+Peperomia glabella	cypress peperomia
+Peperomia hernandiifolia	West Indian peperomia
+Peperomia humilis	Polynesian peperomia
+Peperomia maculosa	spotted peperomia
+Peperomia magnoliifolia	spoonleaf peperomia
+Peperomia maxonii	Maxon's peperomia
+Peperomia megalopoda	Puerto Rico peperomia
+Peperomia myrtifolia	myrtleleaf peperomia
+Peperomia obtusifolia	baby rubberplant
+Peperomia parvulifolia	short-spike peperomia
+Peperomia pellucida	man to man
+Peperomia portoricensis	Puerto Rico peperomia
+Peperomia quadrifolia	fourleaf peperomia
+Peperomia rhombea	Peruvian peperomia
+Peperomia robustior	grand peperomia
+Peperomia rotundifolia	yerba linda
+Peperomia serpens	vinagre
+Peperomia sintenisii	Sintenis' peperomia
+Peperomia tenella	jayuya
+Peperomia tetraphylla	acorn peperomia
+Peperomia urocarpa	Brazilian peperomia
+Peperomia wheeleri	Wheeler's peperomia
+Peperomia yabucoana	viper peperomia
+Pera bumeliifolia	jiqi
+Pereskia aculeata	Barbados shrub
+Pereskia grandifolia	rose cactus
+Persea americana	avocado
+Persea krugii	canela
+Persea urbaniana	aquacatillo
+Petitia domingensis	bastard stopper
+Petiveria alliacea	guinea henweed
+Petrea volubilis	queen's-wreath
+Petroselinum crispum	parsley
+Petunia integrifolia	violetflower petunia
+Pfaffia grandiflora	jojo
+Phaius tancarvilleae	nun's-hood orchid
+Pharus lappulaceus	Cape Francais stalkgrass
+Pharus latifolius	broad stalkgrass
+Pharus parvifolius	creeping stalkgrass
+Phaseolus lunatus	sieva bean
+Phaseolus polystachios	thicket bean
+Phaseolus vulgaris	kidney bean
+Phenax sonneratii	Asian ghostweed
+Phialanthus grandifolius	aquilon prieto
+Phialanthus myrtilloides	candlewood
+Philodendron bipinnatifidum	philodendron
+Philodendron consanguineum	rascagarganta
+Philodendron fragrantissimum	shortstem philodendron
+Philodendron giganteum	giant philodendron
+Philodendron hederaceum	vilevine
+Philodendron lingulatum	treelover
+Philodendron marginatum	Puerto Rico philodendron
+Philodendron ornatum	philodendron
+Phlebodium aureum	golden polypody
+Phlebodium decumanum	creeping golden polypody
+Phlebodium pseudoaureum	false golden polypody
+Phoradendron anceps	goldenfruit mistletoe
+Phoradendron barahonae	island mistletoe
+Phoradendron dichotomum	Bertero's mistletoe
+Phoradendron hexastichum	tropical mistletoe
+Phoradendron piperoides	Piper mistletoe
+Phoradendron quadrangulare	quacimmila de canario
+Phoradendron racemosum	bigleaf mistletoe
+Phoradendron tetrapterum	fourpart mistletoe
+Phoradendron trinervium	angled mistletoe
+Phragmites australis	common reed
+Phyla dulcus	honeyherb
+Phyla fruticosa	diamondleaf fogfruit
+Phyla nodiflora	turkey tangle fogfruit
+Phyla stoechadifolia	southern fogfruit
+Phyllanthus acidus	Tahitian gooseberry tree
+Phyllanthus acuminatus	Jamaican gooseberry tree
+Phyllanthus amarus	carry me seed
+Phyllanthus debilis	niruri
+Phyllanthus emblica	emblic
+Phyllanthus epiphyllanthus	swordbush
+Phyllanthus fraternus	gulf leaf-flower
+Phyllanthus juglandifolius	gamo de costa
+Phyllanthus niruri	gale of the wind
+Phyllanthus orbicularis	wedge leaf-flower
+Phyllanthus pentaphyllus	fivepetal leaf-flower
+Phyllanthus stipulatus	stipulate leaf-flower
+Phyllanthus tenellus	Mascarene Island leaf-flower
+Phyllanthus urinaria	chamber bitter
+Phymatosorus scolopendria	monarch fern
+Physalis angulata	cutleaf groundcherry
+Physalis cordata	heartleaf groundcherry
+Physalis pubescens	husk tomato
+Physalis turbinata	thicket groundcherry
+Phytolacca icosandra	tropical pokeweed
+Phytolacca rivinoides	Venezuelan pokeweed
+Picramnia pentandra	Florida bitterbush
+Picrasma excelsa	bitterwood
+Pictetia aculeata	fustic
+Pilea depressa	depressed clearweed
+Pilea herniarioides	Caribbean clearweed
+Pilea inaequalis	West Indian clearweed
+Pilea krugii	Krug's clearweed
+Pilea leptophylla	Puerto Rico clearweed
+Pilea margarettiae	Margarett's clearweed
+Pilea microphylla	rockweed
+Pilea multicaulis	Liquillo Mountain clearweed
+Pilea nummulariifolia	creeping charlie
+Pilea parietaria	verdolaguilla
+Pilea richardii	Richard's clearweed
+Pilea rivoriae	Antilles clearweed
+Pilea sanctae-crucis	Virgin Island clearweed
+Pilea semidentata	cliffside clearweed
+Pilea tenerrima	musgo
+Pilea yunquensis	mountain clearweed
+Pilocarpus racemosus	aceitillo
+Pilosocereus royenii	Royen's tree cactus
+Pimenta dioica	allspice
+Pimenta racemosa	bayrumtree
+Pinus caribaea	Caribbean pine
+Pinzona coriacea	bejuco de agua
+Piper aduncum	higuillo de hoja menuda
+Piper amalago	higuillo de limon
+Piper blattarum	moth pepper
+Piper dilatatum	higuillo
+Piper glabrescens	Guyanese pepper
+Piper hispidum	Jamaican pepper
+Piper jacquemontianum	Caracas pepper
+Piper marginatum	marigold pepper
+Piper swartzianum	spanish elder
+Piptocarpha tetrantha	mountain ashdaisy
+Piptocoma acevedoi	Acevedo's velvetshrub
+Piptocoma antillana	Antilles velvetshrub
+Piriqueta cistoides	pitted stripeseed
+Piriqueta racemosa	rigid stripeseed
+Piriqueta viscosa	purple stripeseed
+Piscidia carthagenensis	stinkwood
+Pisonia aculeata	pullback
+Pisonia albida	corcho bobo
+Pisonia subcordata	water mampoo
+Pisonia taina	Taino pisonia
+Pistia stratiotes	water lettuce
+Pitcairnia angustifolia	pina cortadora
+Pithecellobium dulce	monkeypod
+Pithecellobium unguis-cati	catclaw blackbead
+Pityrogramma austroamericana	leatherleaf goldback fern
+Pityrogramma calomelanos	Dixie silverback fern
+Pityrogramma chrysophylla	island goldback fern
+Pityrogramma ebenea	mountain silverback fern
+Pityrogramma sulphurea	Jamaican goldback fern
+Pityrogramma trifoliata	threeleaf goldback fern
+Plantago lanceolata	narrowleaf plantain
+Plantago major	common plantain
+Platycladus orientalis	Oriental arborvitae
+Plectranthus amboinicus	Mexican mint
+Plectranthus verticillatus	whorled plectranthus
+Pleodendron macranthum	chupa gallo
+Pleopeltis astrolepis	starscale fern
+Pleopeltis polypodioides	resurrection fern
+Pleopeltis squamata	thickleaf scaly polypody
+Pleurothallis appendiculata	hand bonnet orchid
+Pleurothallis aristata	forest bonnet orchid
+Pleurothallis domingensis	Guadeloupe bonnet orchid
+Pleurothallis gelida	flor de llanten
+Pleurothallis obovata	South American bonnet orchid
+Pleurothallis pruinosa	waxy bonnet orchid
+Pleurothallis pubescens	hairy bonnet orchid
+Pleurothallis racemiflora	ladies' bonnet orchid
+Pleurothallis ruscifolia	green bonnet orchid
+Pleurothallis tricostata	ribbed bonnet orchid
+Pleurothallis wilsonii	Wilson's bonnet orchid
+Pluchea carolinensis	cure for all
+Pluchea odorata	sweetscent
+Plumbago auriculata	Cape leadwort
+Plumbago indica	whorled plantain
+Plumbago scandens	doctorbush
+Plumeria alba	nosegaytree
+Plumeria obtusa	Singapore graveyard flower
+Plumeria rubra	templetree
+Poa annua	annual bluegrass
+Poa pratensis	Kentucky bluegrass
+Podocarpus coriaceus	yucca plum pine
+Podocarpus macrophyllus	yew plum pine
+Podranea ricasoliana	Zimbabwe creeper
+Poitea florida	wattapama
+Poitea paucifolia	retama
+Poitea punicea	caracol illo
+Polygala cowellii	violet tree
+Polygala crucianelloides	Caribbean milkwort
+Polygala hecatantha	West Indian milkwort
+Polygala longicaulis	longstem milkwort
+Polygala paniculata	orosne
+Polygala penaea	crevajosa
+Polygala planellasii	Planellas' polygala
+Polygonum acuminatum	tapertip smartweed
+Polygonum glabrum	denseflower knotweed
+Polygonum hydropiperoides	swamp smartweed
+Polygonum punctatum	dotted smartweed
+Polygonum robustius	stout smartweed
+Polygonum segetum	field smartweed
+Polypodium attenuatum	tapered polypody
+Polypodium dissimile	forkvein polypody
+Polypodium dulce	treetrunk polypody
+Polypodium lanceolatum	lanceleaf polypody
+Polypodium loriceum	clambering polypody
+Polypodium triseriale	anglevein fern
+Polypogon viridis	beardless rabbitsfoot grass
+Polypremum procumbens	juniper leaf
+Polyscias cumingiana	Malaysian aralia
+Polyscias fruticosa	Ming aralia
+Polyscias guilfoylei	geranium aralia
+Polyscias scutellaria	shield aralia
+Polystachya concreta	greater yellowspike orchid
+Polystachya foliosa	lesser yellowspike orchid
+Polystichum calderonense	Monte Guilarte hollyfern
+Polystichum echinatum	rusty swordfern
+Polystichum platyphyllum	flatleaf hollyfern
+Polystichum polystichiforme	Antilles hollyfern
+Polystichum rhizophyllum	tailed hollyfern
+Polytrias indica	Java grass
+Ponthieva racemosa	hairy shadow witch
+Ponthieva ventricosa	smooth shadow witch
+Poranopsis paniculata	bridal bouquet
+Porophyllum leiocarpum	yerba de peo
+Porophyllum ruderale	yerba porosa
+Portulaca caulerpoides	Puerto Rico purslane
+Portulaca grandiflora	rose moss
+Portulaca halimoides	silkcotton purslane
+Portulaca oleracea	little hogweed
+Portulaca pilosa	kiss me quick
+Portulaca quadrifida	chickenweed
+Portulaca rubricaulis	redstem purslane
+Portulaca teretifolia	roundleaf purslane
+Posidonia oceanica	Mediterranean tapeweed
+Potamogeton foliosus	leafy pondweed
+Potamogeton illinoensis	Illinois pondweed
+Potamogeton insulanus	tropical pondweed
+Potamogeton nodosus	longleaf pondweed
+Pouteria campechiana	canistel
+Pouteria dictyoneura	cocuyo
+Pouteria hotteana	redmammee
+Pouteria multiflora	bullytree
+Pouteria sapota	mammee sapote
+Pouzolzia occidentalis	Coamo River pouzolzsbush
+Prescotia oligantha	small Prescott orchid
+Prescotia pellucida	Cuban Prescott orchid
+Prescotia stachyodes	mountain Prescott orchid
+Prestoea acuminata	Sierran palm
+Prestonia agglutinata	babeiro
+Pristimera caribaea	bejuco prieto
+Priva lappulacea	catstongue
+Priva portoricensis	Puerto Rico velvet bur
+Prockia crucis	guasimilla
+Prosopis pallida	kiawe
+Prosthechea cochleata	clamshell orchid
+Prosthechea pygmaea	dwarf butterfly orchid
+Proustia vanillosma	sweet yellowcrown
+Prunus myrtifolia	West Indian cherry
+Prunus occidentalis	western cherry laurel
+Pseudabutilon umbellatum	umbrella Indian mallow
+Pseudanamomis umbellulifera	ciruelas
+Pseudelephantopus spicatus	dog's-tongue
+Pseudelephantopus spirilis	spiral dog's-tongue
+Pseuderanthemum carruthersii	Carruthers' falseface
+Pseuderanthemum variabile	night and afternoon
+Pseudognaphalium domingense	Dominican cudweed
+Pseudogynoxys chenopodioides	Mexican flamevine
+Pseudolmedia spuria	false breadnut
+Pseudophoenix sargentii	Florida cherry palm
+Psidium amplexicaule	mountain guava
+Psidium calyptranthoides	Luquillo Mountain guava
+Psidium cattleianum	strawberry guava
+Psidium guajava	guava
+Psidium longipes	mangroveberry
+Psidium sintenisii	Sintenis' guava
+Psiguria ottoniana	Otton's pygmymelon
+Psiguria pedata	Caribbean pygmymelon
+Psiguria trilobata	threelobe pygmymelon
+Psilochilus macrophyllus	raggedlip orchid
+Psilotum nudum	whisk fern
+Psychilis kraenzlinii	Kraenzlin's peacock orchid
+Psychilis krugii	Krug's peacock orchid
+Psychilis macconnelliae	island peacock orchid
+Psychilis monensis	royal peacock orchid
+Psychilis ×raganii	peacock orchid
+Psychotria berteriana	cachimbo-cumun
+Psychotria brachiata	palo de cachimbo
+Psychotria brownei	Browne's wild coffee
+Psychotria deflexa	nodding wild coffee
+Psychotria domingensis	cheakyberry
+Psychotria grandis	cachimbo grande
+Psychotria guadalupensis	Guadalupe wild coffee
+Psychotria hoffmannseggiana	Hoffmannsegg's wild coffee
+Psychotria ligustrifolia	Bahama wild coffee
+Psychotria maleolens	cachimbo de gato
+Psychotria maricaensis	cachimbo de maricao
+Psychotria microdon	thicket wild coffee
+Psychotria nervosa	Seminole balsamo
+Psychotria nutans	floating balsamo
+Psychotria pubescens	hairy wild coffee
+Psychotria revoluta	curl-leaf wild coffee
+Psychotria tenuifolia	shortleaf wild coffee
+Psychotria uliginosa	tres cabezas
+Pteridium arachnoideum	tropical brackenfern
+Pteridium caudatum	southern brackenfern
+Pteris altissima	tall brake
+Pteris arborea	tree brake
+Pteris biaurita	thinleaf brake
+Pteris deflexa	thickleaf brake
+Pteris denticulata	toothed brake
+Pteris ensiformis	slender brake
+Pteris grandifolia	elephantleaf brake
+Pteris longifolia	longleaf brake
+Pteris mutilata	Asian brake
+Pteris plumula	striped brake
+Pteris pungens	sharp brake
+Pteris tripartita	giant brake
+Pteris vittata	ladder brake
+Pterocarpus indicus	pterocarpus
+Pterocarpus macrocarpus	Burma padauk
+Pterocarpus officinalis	dragonsblood tree
+Pterocaulon alopecuroidies	fox-tail blackroot
+Pterocaulon virgatum	wand blackroot
+Pterolepis glomerata	false meadowbeauty
+Ptilimnium capillaceum	herbwilliam
+Pueraria phaseoloides	tropical kudzu
+Punica granatum	pomegranate
+Pyrostegia venusta	flamevine
+Quararibea turbinata	swizzlestick tree
+Quassia amara	quassia wood
+Quisqualis indica	Rangoon creeper
+Rajania cordata	himber
+Randia aculeata	white indigoberry
+Randia formosa	jasmin de rosa
+Randia parvifolia	smallflower indigoberry
+Randia portoricensis	Puerto Rico indigoberry
+Ranunculus recurvatus	blisterwort
+Raphanus sativus	cultivated radish
+Rauvolfia nitida	palo amargo
+Rauvolfia viridis	milkbush
+Rauvolfia vomitoria	poison devil's-pepper
+Ravenala madagascariensis	traveler's tree
+Ravenia urbanii	tortugo prieto
+Remirea maritima	beachstar
+Renealmia alpinia	jenjibre-de-jardin
+Renealmia jamaicensis	narciso colorado
+Renealmia occidentalis	bijao
+Reynosia guama	guama
+Reynosia krugii	Krug's darlingplum
+Reynosia uncinata	sloe
+Rhabdadenia biflora	mangrovevine
+Rhexia cubensis	West Indian meadowbeauty
+Rhipsalis baccifera	mistletoe cactus
+Rhizophora mangle	red mangrove
+Rhynchosia caribaea	Caribbean snoutbean
+Rhynchosia minima	least snoutbean
+Rhynchosia phaseoloides	crabseye
+Rhynchosia reticulata	habilla
+Rhynchospora alba	white beaksedge
+Rhynchospora berteroi	little beaksedge
+Rhynchospora brachychaeta	West Indian beaksedge
+Rhynchospora ciliata	yerba de estrella
+Rhynchospora colorata	starrush whitetop
+Rhynchospora contracta	tropical beaksedge
+Rhynchospora corymbosa	matamat
+Rhynchospora depressirostris	Quill Beak Sedge
+Rhynchospora divaricata	hairy beaksedge
+Rhynchospora divergens	spreading beaksedge
+Rhynchospora domingensis	Long-Leaf Beak Sedge
+Rhynchospora fascicularis	fascicled beaksedge
+Rhynchospora filiformis	bird beaksedge
+Rhynchospora galeana	shortbristle beaksedge
+Rhynchospora gigantea	giant beaksedge
+Rhynchospora globularis	globe beaksedge
+Rhynchospora holoschoenoides	fly beaksedge
+Rhynchospora jamaicensis	Jamaican beaksedge
+Rhynchospora lindeniana	Bahama beaksedge
+Rhynchospora marisculus	Caribbean beaksedge
+Rhynchospora microcarpa	southern beaksedge
+Rhynchospora nitens	shortbeak beaksedge
+Rhynchospora odorata	fragrant beaksedge
+Rhynchospora oligantha	featherbristle beaksedge
+Rhynchospora plumosa	plumed beaksedge
+Rhynchospora pusilla	fairy beaksedge
+Rhynchospora racemosa	racemed beaksedge
+Rhynchospora radicans	tropical whitetop
+Rhynchospora rariflora	fewflower beaksedge
+Rhynchospora recognita	globe beaksedge
+Rhynchospora rufa	red beaksedge
+Rhynchospora rugosa	claybank beaksedge
+Rhynchospora tenerrima	soldier beaksedge
+Rhynchospora tenuis	quill beaksedge
+Rhynchospora uniflora	oneflower beaksedge
+Rhynchospora wrightiana	Wright's beaksedge
+Rhytidophyllum auriculatum	tibey-amarillo
+Richardia scabra	rough Mexican clover
+Ricinus communis	castorbean
+Rivina humilis	rougeplant
+Rochefortia acanthophora	greenheart ebony
+Rochefortia spinosa	espino
+Rolandra fruticosa	yerba de plata
+Rollinia mucosa	wild sugar apple
+Rondeletia inermis	cordobancillo
+Rondeletia pilosa	cordobancillo peludo
+Rondeletia portoricensis	Juan Tomas
+Rorippa indica	variableleaf yellowcress
+Rorippa palustris	bog yellowcress
+Rorippa portoricensis	Puerto Rico yellowcress
+Rosa indica	cyme rose
+Rosa moschata	musk rose
+Rosa sempervirens	evergreen rose
+Rosmarinus officinalis	rosemary
+Rotala ramosior	lowland rotala
+Rottboellia cochinchinensis	itchgrass
+Rourea surinamensis	Juan Caliente
+Rousselia humilis	shineseed
+Roystonea borinquena	Puerto Rico royal palm
+Roystonea regia	royal palm
+Rubus coronarius	cultivated raspberry
+Rubus florulentus	big blackberry
+Rubus probus	Queensland raspberry
+Rubus rosifolius	West Indian raspberry
+Ruellia caerulea	Britton's wild petunia
+Ruellia chartacea	Peruvian wild petunia
+Ruellia coccinea	yerba maravilla
+Ruellia tuberosa	minnieroot
+Rumex crispus	curly dock
+Rumohra adiantiformis	iron fern
+Ruppia anomala	yerba de zanja
+Ruppia cirrhosa	spiral ditchgrass
+Ruppia maritima	widgeongrass
+Russelia equisetiformis	fountainbush
+Ruta chalepensis	fringed rue
+Sabal causiarum	Puerto Rico palmetto
+Sabicea cinerea	largeflower woodvine
+Sabicea villosa	woolly woodvine
+Saccharum bengalense	Munj sweetcane
+Saccharum officinarum	sugarcane
+Saccharum spontaneum	wild sugarcane
+Sacciolepis indica	glenwoodgrass
+Sacciolepis striata	American cupscale
+Saccoloma domingense	Caribbean soralpouch fern
+Saccoloma inaequale	forest soralpouch fern
+Sagittaria intermedia	intermediate arrowhead
+Sagittaria lancifolia	bulltongue arrowhead
+Sagittaria latifolia	broadleaf arrowhead
+Sagraea domingensis	woodland hogwood
+Sagraea polystachya	Plée's hogwood
+Sagraea portoricensis	Puerto Rico hogwood
+Sagraea scabrosa	sevennerve roughleaf
+Sagraea scalpta	threenerve roughleaf
+Sagraea umbrosa	white hogwood
+Salicornia bigelovii	dwarf saltwort
+Salix humboldtiana	Humboldt's willow
+Salix ×sepulcralis	weeping willow
+Salmea scandens	bejuco de miel
+Salvia coccinea	blood sage
+Salvia micrantha	Yucatan sage
+Salvia misella	tropical sage
+Salvia occidentalis	West Indian sage
+Salvia serotina	littlewoman
+Salvia splendens	scarlet sage
+Salvinia auriculata	eared watermoss
+Salvinia minima	water spangles
+Samanea saman	raintree
+Sambucus nigra	black elderberry
+Samolus valerandi	seaside brookweed
+Samyda dodecandra	guayabilla
+Sanchezia speciosa	shrubby whitevein
+Sansevieria hyacinthoides	iguanatail
+Sansevieria trifasciata	viper's bowstring hemp
+Sapindus saponaria	wingleaf soapberry
+Sapium laurifolium	hinchahuevos
+Sapium laurocerasus	milktree
+Saritaea magnifica	glowvine
+Satureja viminea	serpentine savory
+Sauvagesia erecta	creole tea
+Savia sessiliflora	amansa guapo
+Scaevola plumieri	gullfeed
+Scaphyglottis modesta	Malaysian orchid
+Schaefferia frutescens	Florida boxwood
+Schefflera actinophylla	octopus tree
+Schefflera gleasonii	yuquilla
+Schefflera morototonii	matchwood
+Schinus molle	Peruvian peppertree
+Schinus terebinthifolius	Brazilian peppertree
+Schizachyrium brevifolium	serillo dulce
+Schizachyrium sanguineum	crimson bluestem
+Schizachyrium tenerum	slender little bluestem
+Schizaea fluminensis	Caribbean curlygrass fern
+Schizaea poeppigiana	epiphytic curlygrass fern
+Schizolobium parahybum	Brazilian firetree
+Schlegelia brachyantha	higuerito de sierra
+Schoenoplectus americanus	chairmaker's bulrush
+Schoenoplectus tabernaemontani	softstem bulrush
+Schoepfia arenaria	arana
+Schoepfia obovata	white beefwood
+Schoepfia schreberi	gulf graytwig
+Schradera exotica	yellowshrub
+Schultesia brachyptera	short wingcup
+Schultesia heterophylla	Caribbean wingcup
+Scleria ciliata	fringed nutrush
+Scleria cubensis	Cuban nutrush
+Scleria eggersiana	Eggers' nutrush
+Scleria georgiana	slenderfruit nutrush
+Scleria havanensis	Havana nutrush
+Scleria hirtella	riverswamp nutrush
+Scleria lithosperma	Florida Keys nutrush
+Scleria microcarpa	tropical nutrush
+Scleria muehlenbergii	Muehlenberg's nutrush
+Scleria oligantha	littlehead nutrush
+Scleria pauciflora	fewflower nutrush
+Scleria pterota	cortadora blanca
+Scleria reticularis	netted nutrush
+Scleria scindens	hairy nutrush
+Scleria secans	razor grass
+Scleria triglomerata	whip nutrush
+Scleria verticillata	low nutrush
+Sclerocarpus africanus	African bonebract
+Scolosanthus grandifolius	espuela de galan
+Scolosanthus portoricensis	maricao
+Scolosanthus versicolor	Puerto Rico devilbrush
+Scoparia dulcis	licorice weed
+Scrophularia minutiflora	littleflower figwort
+Scutellaria havanensis	Havana skullcap
+Scybalium jamaicense	John crownose
+Sechium edule	chayote
+Securidaca diversifolia	Easter flower
+Securidaca virgata	bejuco de sopla
+Selaginella armata	armored spikemoss
+Selaginella cordifolia	heartleaf spikemoss
+Selaginella krugii	Krug's spikemoss
+Selaginella laxifolia	limpleaf spikemoss
+Selaginella ovifolia	oval-leaf spikemoss
+Selaginella plana	Asian spikemoss
+Selaginella plumosa	plumed spikemoss
+Selaginella subcaulescens	handsome spikemoss
+Selaginella substipitata	stalked spikemoss
+Selaginella tenella	delicate spikemoss
+Selaginella willdenowii	Willdenow's spikemoss
+Selenicereus grandiflorus	queen of the night
+Senna alata	emperor's candlesticks
+Senna atomaria	flor de San Jose
+Senna bacillaris	whitebark senna
+Senna bicapsularis	Christmasbush
+Senna ×floribunda	senna
+Senna hirsuta	woolly senna
+Senna ligustrina	privet senna
+Senna multijuga	false sicklepod
+Senna nitida	hediondilla
+Senna obtusifolia	Java-bean
+Senna occidentalis	septicweed
+Senna pendula	valamuerto
+Senna polyphylla	retama prieta
+Senna septemtrionalis	arsenic bush
+Senna siamea	Siamese cassia
+Senna sophera	algarrobilla
+Senna spectabilis	casia amarilla
+Senna surattensis	glossy shower
+Senna uniflora	oneleaf senna
+Serjania diversifolia	fowlsfoot
+Serjania polyphylla	basketwood
+Sesamum orientale	sesame
+Sesbania bispinosa	dunchi fiber
+Sesbania grandiflora	vegetable hummingbird
+Sesbania herbacea	bigpod sesbania
+Sesbania sericea	papagayo
+Sesbania sesban	Egyptian riverhemp
+Sesbania tomentosa	Oahu riverhemp
+Sesuvium maritimum	slender seapurslane
+Sesuvium microphyllum	little-leaf seapurslane
+Sesuvium portulacastrum	shoreline seapurslane
+Setaria barbata	East Indian bristlegrass
+Setaria magna	giant bristlegrass
+Setaria parviflora	marsh bristlegrass
+Setaria pradana	roadside bristlegrass
+Setaria rariflora	Brazilian bristlegrass
+Setaria setosa	West Indian bristlegrass
+Setaria tenacissima	tropical bristlegrass
+Setaria utowanaea	Caribbean bristlegrass
+Setaria vulpiseta	plains bristlegrass
+Sicana odorifera	casa banana
+Sida abutifolia	spreading fanpetals
+Sida acuta	common wireweed
+Sida ciliaris	bracted fanpetals
+Sida cordata	heartleaf fanpetals
+Sida cordifolia	‘ilima
+Sida glabra	smooth fanpetals
+Sida glomerata	clustered fanpetals
+Sida glutinosa	sticky fanpetals
+Sida jamaicensis	Jamaican fanpetals
+Sida repens	Javanese fanpetals
+Sida rhombifolia	Cuban jute
+Sida salviifolia	escoba parada
+Sida spinosa	prickly fanpetals
+Sida stipularis	stipule fanpetals
+Sidastrum multiflorum	manyflower sandmallow
+Sida urens	tropical fanpetals
+Sideroxylon cubense	espejuelo
+Sideroxylon foetidissimum	false mastic
+Sideroxylon obovatum	breakbill
+Sideroxylon portoricense	Puerto Rico bully
+Sideroxylon salicifolium	white bully
+Simarouba tulae	aceitillo falso
+Sinapis alba	white mustard
+Siphoneugena densiflora	hoja menuda
+Siphonoglossa sessilis	tropical tube tongue
+Sisyrinchium rosulatum	annual blue-eyed grass
+Sloanea amygdalina	motillo
+Sloanea berteriana	bullwood
+Smilax coriacea	Everglades greenbrier
+Smilax smallii	lanceleaf greenbrier
+Solandra grandiflora	showy chalicevine
+Solanum americanum	American black nightshade
+Solanum bahamense	Bahama nightshade
+Solanum campechiense	redberry nightshade
+Solanum capsicoides	cockroach berry
+Solanum elaeagnifolium	silverleaf nightshade
+Solanum erianthum	potatotree
+Solanum jamaicense	Jamaican nightshade
+Solanum lanceifolium	lanceleaf nightshade
+Solanum lycopersicum	garden tomato
+Solanum mammosum	nipplefruit
+Solanum melongena	eggplant
+Solanum mucronatum	pepino
+Solanum nigrescens	divine nightshade
+Solanum nudum	forest nightshade
+Solanum polygamum	cakalaka berry
+Solanum pyrifolium	pear-leaf nightshade
+Solanum quitoense	naranjilla
+Solanum racemosum	canker berry
+Solanum riedlei	Riedle's nightshade
+Solanum rugosum	tabacon aspero
+Solanum seaforthianum	Brazilian nightshade
+Solanum torvum	turkey berry
+Solanum tuberosum	Irish potato
+Solanum wendlandii	giant potatocreeper
+Solanum woodburyi	Woodbury's nightshade
+Solenostemon scutellarioides	common coleus
+Solidago sempervirens	seaside goldenrod
+Sonchus asper	spiny sowthistle
+Sonchus oleraceus	common sowthistle
+Sophora tomentosa	yellow necklacepod
+Sorghastrum setosum	sandysoil Indiangrass
+Sorghastrum stipoides	needle Indiangrass
+Sorghum bicolor	sorghum
+Sorghum halepense	Johnsongrass
+Spartina patens	saltmeadow cordgrass
+Spathiphyllum wallisii	peace lily
+Spathodea campanulata	African tuliptree
+Spathoglottis plicata	Philippine ground orchid
+Spermacoce assurgens	woodland false buttonweed
+Spermacoce confusa	river false buttonweed
+Spermacoce densiflora	bouquet false buttonweed
+Spermacoce eryngioides	whorled-leaf false buttonweed
+Spermacoce prostrata	prostrate false buttonweed
+Spermacoce sintenisii	West Indian false buttonweed
+Spermacoce tenuior	slender false buttonweed
+Spermacoce verticillata	shrubby false buttonweed
+Sphagneticola gracilis	slender creeping-oxeye
+Sphagneticola trilobata	Bay Biscayne creeping-oxeye
+Sphagnum portoricense	Puerto Rico sphagnum
+Sphenoclea zeylanica	chickenspike
+Spigelia anthelmia	West Indian pinkroot
+Spiracantha cornifolia	dogwoodleaf
+Spiranthes torta	southern lady's tresses
+Spirodela polyrrhiza	common duckmeat
+Spondias dulcis	Jewish plum
+Spondias mombin	yellow mombin
+Spondias purpurea	purple mombin
+Sporobolus cubensis	Cuban dropseed
+Sporobolus domingensis	coral dropseed
+Sporobolus indicus	smut grass
+Sporobolus pyramidatus	Madagascar dropseed
+Sporobolus tenuissimus	tropical dropseed
+Sporobolus virginicus	seashore dropseed
+Stachys arvensis	staggerweed
+Stachytarpheta cayennensis	cayenne porterweed
+Stachytarpheta ×hybrida	porterweed
+Stachytarpheta jamaicensis	light-blue snakeweed
+Stachytarpheta strigosa	West Indian porterweed
+Stachytarpheta urticifolia	nettleleaf velvetberry
+Stahlia monosperma	cobana negra
+Stegnosperma cubense	Cuban tangle
+Stelis perpusilliflora	West Indian leach orchid
+Stelis pygmaea	pygmy leach orchid
+Stellaria antillana	West Indian starwort
+Stemodia durantifolia	whitewoolly twintip
+Stemodia maritima	seaside twintip
+Stemodia verticillata	whorled twintip
+Stenandrium tuberosum	mata espiritista
+Stenocereus fimbriatus	Spanish stenocereus
+Stenorrhynchos lanceolatum	leafless beaked lady orchid
+Stenorrhynchos speciosum	Latin American lady orchid
+Stenotaphrum secundatum	St. Augustine grass
+Sterculia apetala	Panama tree
+Sterculia foetida	hazel sterculia
+Sticherus bifidus	Mexican umbrella fern
+Sticherus brevipubis	clothed umbrella fern
+Stictocardia tiliifolia	spottedheart
+Stigmaphyllon bannisterioides	egg-leaf Amazonvine
+Stigmaphyllon diversifolium	heartleaf Amazonvine
+Stigmaphyllon emarginatum	monarch Amazonvine
+Stigmaphyllon floribundum	woolly Amazonvine
+Stigmaphyllon puberum	South American Amazonvine
+Struchium sparganophorum	yerba de faja
+Strumpfia maritima	pride of Big Pine
+Stylogyne lateriflora	quiebrahacha
+Stylosanthes erecta	Nigerian stylo
+Stylosanthes hamata	cheesytoes
+Stylosanthes viscosa	poorman's friend
+Styrax portoricensis	palo de jazmin
+Suriana maritima	bay cedar
+Swietenia macrophylla	Honduras mahogany
+Swietenia mahagoni	West Indian mahogany
+Symphyotrichum expansum	southwestern annual saltmarsh aster
+Symphysia racemosa	leatherleaf eelvine
+Symplocos lanata	nispero cimarron
+Symplocos latifolia	broad-leaf sweetleaf
+Symplocos martinicensis	Martinique sweetleaf
+Symplocos micrantha	aceitunilla
+Synedrella nodiflora	nodeweed
+Syngonium auritum	arrowhead vine
+Syngonium podophyllum	American evergreen
+Syzygium grande	sea apple
+Syzygium jambos	Malabar plum
+Syzygium malaccense	Malaysian apple
+Tabebuia aurea	Caribbean trumpet-tree
+Tabebuia chrysantha	roble amarillo
+Tabebuia donnell-smithii	primavera
+Tabebuia haemantha	roble cimarron
+Tabebuia heterophylla	white cedar
+Tabebuia rigida	roble de sierra
+Tabebuia rosea	pink trumpet-tree
+Tabebuia schumanniana	roble colorado
+Tabebuia serratifolia	yellow poui
+Tabernaemontana citrifolia	milkwood
+Tabernaemontana divaricata	pinwheelflower
+Tagetes erecta	Aztec marigold
+Tagetes patula	French marigold
+Talinum paniculatum	jewels of Opar
+Talinum triangulare	Ceylon spinach
+Tamarindus indica	tamarind
+Tamarix aphylla	Athel tamarisk
+Tamarix gallica	French tamarisk
+Tamonea boxiana	crow broom
+Taraxacum officinale	common dandelion
+Tecoma capensis	Cape honeysuckle
+Tecoma stans	yellow trumpetbush
+Tectaria cicutaria	button fern
+Tectaria estremeriana	Puerto Rico halberd fern
+Tectaria fimbriata	least halberd fern
+Tectaria heracleifolia	broad halberd fern
+Tectaria incisa	incised halberd fern
+Tectaria plantaginea	plantainleaf halberd fern
+Tectaria trifoliata	threeleaf halberd fern
+Tectona grandis	teak
+Teliostachya alopecuroidea	pata de gallina
+Tephrosia candida	white hoarypea
+Tephrosia cinerea	ashen hoarypea
+Tephrosia noctiflora	South African hoarypea
+Tephrosia senna	anil racimillo
+Tephrosia sessiliflora	sessileflower hoarypea
+Teramnus labialis	blue wiss
+Teramnus uncinatus	cresta de gallo blanco
+Terminalia catappa	tropical almond
+Terminalia ivorensis	Ivory Coast almond
+Terminalia myriocarpa	East Indian almond
+Terminalia oblonga	Peruvian almond
+Ternstroemia heptasepala	saintedwood
+Ternstroemia luquillensis	palo colorado
+Ternstroemia peduncularis	copey vera
+Ternstroemia stahlii	mamey de cura
+Ternstroemia subsessilis	el yunque colorado
+Tetragastris balsamifera	masa
+Tetragonia tetragonioides	New Zealand spinach
+Tetramicra canaliculata	serpentine wallflower orchid
+Tetrapterys inaequalis	bejuco de sopla
+Tetrazygia angustifolia	stinkingfish
+Tetrazygia biflora	Puerto Rico clover ash
+Tetrazygia crotonifolia	hillside clover ash
+Tetrazygia elaeagnoides	krekre
+Tetrazygia urbanii	cenizo
+Thalassia testudinum	turtlegrass
+Thalia geniculata	bent alligator-flag
+Thelypteris abdita	Rio Abajo maiden fern
+Thelypteris abrupta	fairybit maiden fern
+Thelypteris angustifolia	broadleaf maiden fern
+Thelypteris balbisii	Balbis' maiden fern
+Thelypteris brittonae	Britton's maiden fern
+Thelypteris cheilanthoides	lip maiden fern
+Thelypteris cordata	heartleaf maiden fern
+Thelypteris decussata	glandular maiden fern
+Thelypteris deltoidea	deltoid maiden fern
+Thelypteris dentata	downy maiden fern
+Thelypteris germaniana	German's maiden fern
+Thelypteris grandis	stately maiden fern
+Thelypteris guadalupensis	Guadeloupe maiden fern
+Thelypteris hastata	arrowhead maiden fern
+Thelypteris hildae	limestone maiden fern
+Thelypteris hispidula	roughhairy maiden fern
+Thelypteris inabonensis	cordillera maiden fern
+Thelypteris interrupta	Willdenow's maiden fern
+Thelypteris ×invisa	maiden fern
+Thelypteris kunthii	Kunth's maiden fern
+Thelypteris leptocladia	thicket maiden fern
+Thelypteris linkiana	Link's maiden fern
+Thelypteris namatophila	Maricao maiden fern
+Thelypteris nephrodioides	graygreen maiden fern
+Thelypteris opposita	oppositeleaf maiden fern
+Thelypteris patens	gridscale maiden fern
+Thelypteris pennata	graceful maiden fern
+Thelypteris piedrensis	Cuban maiden fern
+Thelypteris poiteana	darkgreen maiden fern
+Thelypteris reptans	creeping maiden fern
+Thelypteris resinifera	resinous maiden fern
+Thelypteris reticulata	latticevein fern
+Thelypteris retroflexa	spleenwort maiden fern
+Thelypteris rheophyta	Rio Inabon maiden fern
+Thelypteris ×rolandii	maiden fern
+Thelypteris rudis	red maiden fern
+Thelypteris sancta	Caribbean maiden fern
+Thelypteris sclerophylla	stiff maiden fern
+Thelypteris serra	Jamaican maiden fern
+Thelypteris serrata	toothed latticevein fern
+Thelypteris tetragona	freetip maiden fern
+Thelypteris verecunda	Barrio Charcas maiden fern
+Thelypteris yaucoensis	Puerto Rico maiden fern
+Themeda arguens	Christmas grass
+Theobroma cacao	cacao
+Thespesia grandiflora	maga
+Thespesia populnea	Portia tree
+Thevetia peruviana	luckynut
+Thouinia striata	ceboruquillo
+Thunbergia alata	blackeyed Susan vine
+Thunbergia erecta	bush clockvine
+Thunbergia fragrans	whitelady
+Thunbergia grandiflora	Bengal trumpet
+Tibouchina granulosa	Brazilian glorytree
+Tibouchina urvilleana	princess-flower
+Tillandsia ariza-juliae	wand airplant
+Tillandsia bartramii	Bartram's airplant
+Tillandsia borinquensis	fescue airplant
+Tillandsia bulbosa	bulbous airplant
+Tillandsia fasciculata	giant airplant
+Tillandsia flexuosa	twisted airplant
+Tillandsia lineatispica	pinon
+Tillandsia polystachia	parásita
+Tillandsia pruinosa	fuzzywuzzy airplant
+Tillandsia recurvata	small ballmoss
+Tillandsia setacea	southern needleleaf
+Tillandsia tenuifolia	narrowleaf airplant
+Tillandsia usneoides	Spanish moss
+Tillandsia utriculata	spreading airplant
+Tillandsia variabilis	leatherleaf airplant
+Tithonia diversifolia	tree marigold
+Tithonia rotundifolia	clavel de muerto
+Tolumnia prionochila	tropical dancing-lady orchid
+Tolumnia variegata	harlequin dancing-lady orchid
+Toona ciliata	Australian redcedar
+Torralbasia cuneifolia	boje
+Tournefortia bicolor	niguita
+Tournefortia filiflora	cold withe
+Tournefortia hirsutissima	chiggery grapes
+Tournefortia laurifolia	laurel-leaf soldierbush
+Tournefortia maculata	bejuco de masa
+Tournefortia scabra	West Indian soldierbush
+Tournefortia volubilis	twining soldierbush
+Tradescantia pallida	purple queen
+Tradescantia spathacea	boatlily
+Tradescantia zanonia	cohitre blanco
+Tradescantia zebrina	inchplant
+Tragia volubilis	fireman
+Tragus berteronianus	spiked bur grass
+Trema lamarckiana	Lamarck's trema
+Trema micrantha	Jamaican nettletree
+Trianthema portulacastrum	desert horsepurslane
+Tribulus cistoides	Jamaican feverplant
+Trichilia hirta	broomstick
+Trichilia pallida	gaita
+Trichilia triacantha	bariaco
+Trichomanes alatum	winged bristle fern
+Trichomanes angustifrons	royal bristle fern
+Trichomanes capillaceum	treetrunk bristle fern
+Trichomanes crispum	crisped bristle fern
+Trichomanes holopterum	entirewing bristle fern
+Trichomanes hookeri	Hooker's bristle fern
+Trichomanes hymenoides	parchment bristle fern
+Trichomanes hymenophylloides	thinleaf bristle fern
+Trichomanes kapplerianum	Kappler's bristle fern
+Trichomanes krausii	treemoss bristle fern
+Trichomanes lineolatum	lined bristle fern
+Trichomanes membranaceum	scale edge bristle fern
+Trichomanes ovale	eggleaf bristle fern
+Trichomanes padronii	Padron's bristle fern
+Trichomanes pinnatum	tansy bristle fern
+Trichomanes polypodioides	jeweled bristle fern
+Trichomanes punctatum	dotted bristle fern
+Trichomanes pusillum	sidesaddle bristle fern
+Trichomanes radicans	aerialroot bristle fern
+Trichomanes rigidum	stiff bristle fern
+Trichomanes robustum	robust bristle fern
+Trichomanes scandens	climbing bristle fern
+Trichosalpinx dura	Colombian bonnet orchid
+Trichostigma octandrum	hoopvine
+Tridax procumbens	coatbuttons
+Trifolium pratense	red clover
+Trimezia steyermarkii	Steyermark's trimezia
+Triphasia trifolia	limeberry
+Triphora amazonica	broadleaf noddingcaps
+Triphora hassleriana	Hassler's noddingcaps
+Triphora surinamensis	Hernando County noddingcaps
+Triplaris cumingiana	ant tree
+Triplophyllum funestum	fountain fern
+Tripogandra serrulata	pink Trinity
+Tripsacum fasciculatum	Guatemalan gamagrass
+Tripsacum latifolium	wideleaf gamagrass
+Triticum aestivum	common wheat
+Triumfetta lappula	grandcousin
+Triumfetta rhomboidea	diamond burbark
+Triumfetta semitriloba	Sacramento burbark
+Tropaeolum majus	nasturtium
+Trophis racemosa	white ramoon
+Tropidia polystachya	young palm orchid
+Turbina corymbosa	Christmasvine
+Turnera diffusa	damiana
+Turnera pumilea	yellow alder
+Turnera ulmifolia	ramgoat dashalong
+Turpinia occidentalis	muttonwood
+Tynanthus polyanthus	bejuco de clavo
+Typha domingensis	southern cattail
+Urena lobata	Caesarweed
+Urena sinuata	bur mallow
+Urera baccifera	scratchbush
+Urera caracasana	flameberry
+Urera chlorocarpa	ortiga
+Urochloa adspersa	Dominican signalgrass
+Urochloa arrecta	African signalgrass
+Urochloa brizantha	palisade grass
+Urochloa decumbens	spreading liverseed grass
+Urochloa distachya	tropical signalgrass
+Urochloa fusca	browntop signalgrass
+Urochloa maxima	guineagrass
+Urochloa mosambicensis	African liverseed grass
+Urochloa mutica	para grass
+Urochloa plantaginea	plantain signalgrass
+Urochloa reptans	sprawling signalgrass
+Utricularia gibba	humped bladderwort
+Utricularia juncea	southern bladderwort
+Utricularia pusilla	tiny bladderwort
+Utricularia subulata	zigzag bladderwort
+Valeriana scandens	Florida valerian
+Vangueria madagascariensis	voa vanga
+Vanilla barbellata	wormvine orchid
+Vanilla claviculata	green withe
+Vanilla dilloniana	leafless vanilla
+Vanilla mexicana	Mexican vanilla
+Vanilla planifolia	vanilla
+Vanilla poitaei	Poit's vanilla
+Vanilla pompona	West Indian vanilla
+Verbena bonariensis	purpletop vervain
+Verbena incompta	purpletop vervain
+Verbena rigida	tuberous vervain
+Verbena scabra	sandpaper vervain
+Verbesina alata	capitaneja
+Verbesina encelioides	golden crownbeard
+Vernicia fordii	tungoil tree
+Vernonia albicaulis	Santa Maria
+Vernonia borinquensis	Puerto Rico ironweed
+Vernonia proctori	Proctor's ironweed
+Vernonia sericea	longshoot
+Veronica peregrina	neckweed
+Vetiveria zizanioides	vetivergrass
+Vigna adenantha	wild pea
+Vigna antillana	Antilles bean
+Vigna hosei	Sarawak bean
+Vigna juruana	tropical cowpea
+Vigna longifolia	longleaf cowpea
+Vigna luteola	hairypod cowpea
+Vigna marina	notched cowpea
+Vigna peduncularis	purple cowpea
+Vigna unguiculata	cowpea
+Vigna vexillata	zombi pea
+Viola odorata	sweet violet
+Vitex agnus-castus	lilac chastetree
+Vitex divaricata	higuerillo
+Vitex parviflora	smallflower chastetree
+Vitis tiliifolia	West Indian grape
+Vitis vinifera	wine grape
+Vittaria costata	redscale shoestring fern
+Vittaria graminifolia	grass fern
+Vittaria lineata	shoestring fern
+Vittaria remota	purplestem shoestring fern
+Voyria aphylla	leafless ghostplant
+Voyria parasitica	parasitic ghostplant
+Voyria tenella	Puerto Rico ghostplant
+Vriesea macrostachya	parasita
+Vriesea proctorii	Proctor's vriesea
+Vriesea ringens	pirigallo
+Vriesea sintenisii	barkplant
+Vulpia bromoides	brome fescue
+Waldsteinia pendula	nodding barren strawberry
+Wallenia lamarckiana	jacanillo
+Wallenia yunquensis	el yunque jacanillo
+Waltheria calcicola	raichie
+Waltheria indica	uhaloa
+Websteria confervoides	algal bulrush
+Wedelia fruticosa	coastal plain creepingoxeye
+Wedelia lanceolata	riverbank creepingoxeye
+Wedelia parviflora	smallflower creepingoxeye
+Wedelia reticulata	manazanilla del monte
+Weinmannia pinnata	bastard briziletto
+Wissadula amplissima	big yellow velvetleaf
+Wissadula periplocifolia	white velvetleaf
+Wolffia brasiliensis	Brazilian watermeal
+Wolffiella lingulata	tongueshape bogmat
+Wolffiella welwitschii	pond bogmat
+Wullschlaegelia aphylla	leafless orchid
+Xanthium strumarium	rough cocklebur
+Xanthosoma atrovirens	yautia amarilla
+Xanthosoma brasiliense	Tahitian spinach
+Xanthosoma caracu	yautia horqueta
+Xanthosoma helleborifolium	belembe silvestre
+Xanthosoma sagittifolium	arrowleaf elephant's ear
+Xanthosoma undipes	tall elephant's ear
+Xanthosoma violaceum	purplestem taro
+Xenostegia tridentata	African morningvine
+Ximenia americana	tallow wood
+Xiphidium caeruleum	cola de paloma
+Xylosma buxifolia	mucha-gente
+Xylosma pachyphylla	spiny logwood
+Xylosma schaefferioides	white logwood
+Xylosma schwaneckeana	Schwaneck's logwood
+Xyris caroliniana	Carolina yelloweyed grass
+Xyris difformis	bog yelloweyed grass
+Xyris elliottii	Elliott's yelloweyed grass
+Xyris jupicai	Richard's yelloweyed grass
+Youngia japonica	Oriental false hawksbeard
+Yucca aloifolia	aloe yucca
+Yucca gloriosa	moundlily yucca
+Yucca guatemalensis	bluestem yucca
+Zamia amblyphyllidia	zamia
+Zamia portoricensis	marunguey
+Zamia pumila	coontie
+Zantedeschia aethiopica	calla lily
+Zanthoxylum bifoliolatum	Maricao pricklyash
+Zanthoxylum caribaeum	prickly yellow
+Zanthoxylum flavum	West Indian satinwood
+Zanthoxylum martinicense	white pricklyash
+Zanthoxylum monophyllum	yellow prickle
+Zanthoxylum punctatum	dotted pricklyash
+Zanthoxylum spinifex	niaragato
+Zanthoxylum thomasianum	St. Thomas pricklyash
+Zapoteca portoricensis	white stickpea
+Zea mays	corn
+Zephyranthes citrina	citron zephyrlily
+Zephyranthes grandiflora	rosepink zephyrlily
+Zephyranthes proctorii	Proctor's zephyrlily
+Zephyranthes puertoricensis	Puerto Rico zephyrlily
+Zephyranthes rosea	Cuban zephyrlily
+Zeuxine strateumatica	soldier's orchid
+Zingiber montanum	Cassumunar ginger
+Zingiber officinale	garden ginger
+Zingiber zerumbet	bitter ginger
+Zinnia peruviana	Peruvian zinnia
+Zinnia violacea	elegant zinnia
+Ziziphus mauritiana	Indian jujube
+Ziziphus reticulata	cacao rojo
+Ziziphus rignonii	soana
+Ziziphus taylorii	Taylor's jujube
+Zornia gemella	zarzabacoa de dos hojas
+Zornia reticulata	zarzabacoa de dos hojas
+Zoysia matrella	Manila grass
+Zoysia tenuifolia	Mascarene grass
+Zygophlebia sectifrons	octopus fern

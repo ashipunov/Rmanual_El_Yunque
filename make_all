@@ -1,0 +1,8 @@
+#!/bin/bash
+
+Rscript make_body.r
+
+cd output/pdf
+pdflatex plants_el_yunque.tex
+pdflatex plants_el_yunque.tex
+mv plants_el_yunque.pdf ../../
